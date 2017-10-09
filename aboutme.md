@@ -9,10 +9,10 @@ BFord.net serves as a portfolio for all my most recent projects and the occasion
 
 
 >"Intelligence is the ability to avoid doing work, yet getting the work done"
->- Linus Torvalds
-
+>\- Linus Torvalds
+>
 >"Get busy living or get busy dying"
->- Andy Dufresne (Shawshank Redemption)
+>\- Andy Dufresne (Shawshank Redemption)
 
 ### Experience
 
