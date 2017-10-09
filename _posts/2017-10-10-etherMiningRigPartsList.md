@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What do you need in order to build an Ethereum mining rig?
+image: /img/etherLogo.png
 tags: [ethereum, ether, crypto, currency, cryptocurrency, mine, miner, mining, graphics cards, bitcoin]
 ---
 
