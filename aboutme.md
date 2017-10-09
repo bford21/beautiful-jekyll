@@ -4,8 +4,9 @@ title: About me
 subtitle: What I'm all about
 ---
 
-Hello, my name is Brian Ford and I am a passionate about technology. I love exploring new technology to learn how I can solve problems  and am constantly looking for new challenges. I enjoy working outside my comfort zone and continuing to learn new languages and development techniques. When I'm not programming I like to get outside and explore the great city of Boston. I also enjoy snowboarding, running and biking.
-BFord.net serves as a portfolio for all my most recent projects and the occasional blog post about something I find interesting. I enjoy teaching people how to program almost as much as I like to program myself, so I hope to one day include a tutorials section as well.
+Hello, my name is Brian Ford and I am a passionate about technology. I love exploring new technology and learning how to apply it in order to solve problems. I am constantly looking for new challenges. I enjoy working outside my comfort zone and continuing to learn new languages and development techniques.
+ 
+When I'm not programming I like to get outside and explore the great city of Boston. I grew up just outside the city and am a huge Patriots, Red Sox and Celtics fan. I also enjoy snowboarding, running and biking.
 
 
 >"Intelligence is the ability to avoid doing work, yet getting the work done"
@@ -13,6 +14,7 @@ BFord.net serves as a portfolio for all my most recent projects and the occasion
 >
 >"Get busy living or get busy dying"
 >\- Andy Dufresne (Shawshank Redemption)
+
 
 ### Experience
 
