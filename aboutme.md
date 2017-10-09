@@ -8,11 +8,11 @@ Hello, my name is Brian Ford and I am a passionate about technology. I love expl
 BFord.net serves as a portfolio for all my most recent projects and the occasional blog post about something I find interesting. I enjoy teaching people how to program almost as much as I like to program myself, so I hope to one day include a tutorials section as well.
 
 
-"Intelligence is the ability to avoid doing work, yet getting the work done"
-- Linus Torvalds
+>"Intelligence is the ability to avoid doing work, yet getting the work done"
+>- Linus Torvalds
 
-"Get busy living or get busy dying"
-- Andy Dufresne (Shawshank Redemption)
+>"Get busy living or get busy dying"
+>- Andy Dufresne (Shawshank Redemption)
 
 ### Experience
 
