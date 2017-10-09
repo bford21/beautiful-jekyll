@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Brian Fords Website
+title: Brian Fords
 
 # Short description of your site
 description: Personal website serving as an online portfolio as well as a blog to post about topics that I find interesting.
@@ -24,11 +24,11 @@ description: Personal website serving as an online portfolio as well as a blog t
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Personal Projects:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Resume: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -55,14 +55,14 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
+  name: Brian Ford
+  email: "briguy22811@gmail.com"
   facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
+  github: bford21    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
+  linkedin: brian-ford  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
@@ -77,7 +77,7 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: true
   google-plus: false
@@ -98,13 +98,13 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "bford21.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
