@@ -79,7 +79,7 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
@@ -98,8 +98,8 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
-  google: false
+  facebook: true
+  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
