@@ -21,15 +21,14 @@ When I'm not programming I like to get outside and explore the great city of Bos
 
 ![Citrix Logo](img/citrix.png) Citrix
 
-Title: Software Engineer
+**Software Engineer:** C++/C# code base. Bug fixes, feature development, cloud integrations, devops
 
 ![Xamarin Logo](img/xamarin.png) Xamarin Inc
 
-Title: DevOps Intern
+**DevOps Intern:** Managed and maintained build machines and continious integration pipeline
 
 ![MFS Logo](img/mfs.png) MFS INvestment Management
 
-Title: QA Automation Intern
 
 ![Percussion Logo](img/percussion.png) Percussion Software
 
