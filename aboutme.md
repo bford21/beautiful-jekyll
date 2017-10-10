@@ -32,7 +32,7 @@ Blue Vase Marketing: IT Department Intern
 ## Skills
 <i class="fa fa-code" /> **Programming languages:** Java, C++, C#, Python, Ruby, Javascript, PHP
 
-**Platforms:** Windows, Linux, MacOS
+<i class="fa fa-cubes" /> **Platforms:** Windows, Linux, MacOS
 
 <i class="fa fa-cloud" /> **Cloud Platforms:** Amazon AWS, Microsoft Azure
 
