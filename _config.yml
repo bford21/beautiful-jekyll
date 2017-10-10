@@ -25,9 +25,9 @@ description: Personal Page
 navbar-links:
   About Me: "aboutme"
   Personal Projects:
-    - Boston Crime Data: "crimeData"
-    - Publish to OneDrive: "publishToOnedrive"
-    - WITS: "wits"
+    - Boston Crime Data Visualization: "crimeData"
+    - Publish Over OneDrive: "publishToOnedrive"
+    - Wentworth Class Scheduler: "wits"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
