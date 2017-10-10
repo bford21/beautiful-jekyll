@@ -19,6 +19,8 @@ When I'm not programming I like to get outside and explore the great city of Bos
 
 ### Experience
 
+Citrix: Software Engineer
+
 Xamarin Inc: Devops Intern
 
 MFS INvestment Management: QA Automation Intern
