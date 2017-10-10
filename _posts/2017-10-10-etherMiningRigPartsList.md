@@ -49,4 +49,4 @@ I reccomend the follwing risers from <a href="https://www.amazon.com/gp/product/
 * <a href="https://www.amazon.com/gp/product/B00009MDBU/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1">Wattage Monitor</a>
 * <a href="https://www.amazon.com/gp/product/B01LMZZFWO/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1">Power Button</a>
 
-Note: Keyboard, mouse and monitor required for initial setup. You can then run your miner without them, using SSH to edit and make changes.
+**Note:** Keyboard, mouse and monitor required for initial setup. You can then run your miner without them, using SSH to edit and make changes.
