@@ -2,13 +2,16 @@
 layout: post
 title: What do you need in order to build an Ethereum mining rig?
 image: /img/etherLogo.png
+bigimg: /img/first-miner.jpg
 tags: [ethereum, ether, crypto, currency, cryptocurrency, mine, miner, mining, graphics cards, bitcoin]
 ---
 
-Lately I've taken an interest in cryptocurrency mining and today I thought I'd share with you a detailed parts list so you have all the knowledge you need to build your own miner. 
+I've always found cryptocurrencies like Bitcoin, Ethereum and Litecoin extremely interesting. Especially the underlying technology called blockchain. 
+Lately I've been trying my hand at cryptocurrency mining and today I thought I'd share with you a detailed parts list so you have all the knowledge you need to build your own miner. 
+
 I built my first Ethereum mining rig a couple months ago and it was the first computer I had ever built myself. 
 It was a lot of fun and I quickly became interested in the hardware side of computing apposed to the software side.
-I made plenty of mistakes building the first mining rig so I wanted to document my parts list and hopefully pass on some knowledge to others out there interested in cryptocurrency mining.
+I made plenty of mistakes building my first mining rig so I wanted to document my parts list and hopefully pass on some knowledge to others out there interested in cryptocurrency mining.
 
 ### Graphics Cards
 Which graphics cards you use is the most important and also most expensive part of a build. For this build I'll be using 4 AMD Radeon RX580 Nitro+ OC 4gb cards. 
