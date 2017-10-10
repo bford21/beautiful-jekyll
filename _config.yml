@@ -25,9 +25,9 @@ description: Personal Page
 navbar-links:
   About Me: "aboutme"
   Personal Projects:
-    - Boston Crime Data: "http://deanattali.com/beautiful-jekyll/"
-    - Publish to OneDrive: "http://www.markdowntutorial.com/"
-    - WITS: "https://pages.github.com/"
+    - Boston Crime Data: "crimeData"
+    - Publish to OneDrive: "publishToOnedrive"
+    - WITS: "wits"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
