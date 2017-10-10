@@ -25,15 +25,19 @@ When I'm not programming I like to get outside and explore the great city of Bos
 
 ![Xamarin Logo](img/xamarin.png) Xamarin Inc
 
-**DevOps Intern:** Managed and maintained build machines and continious integration pipeline
+**DevOps Intern:** Managed and maintained build machines and continious integration pipeline. Wrote a Jenkins plugin to upload build artifacts to OneDrive.
 
 ![MFS Logo](img/mfs.png) MFS INvestment Management
 
+**QA Automation Intern:** Developed automated tests using headless Javascript testing platform that met acceptance criteria.
 
 ![Percussion Logo](img/percussion.png) Percussion Software
 
+**Software Engineering Intern:** 
+
 ![Bluevase Logo](img/bluevase.jpg) Blue Vase Marketing
 
+<br />
 ## Skills
 <i class="fa fa-code" /> **Programming languages:** Java, C++, C#, Python, Ruby, Javascript, PHP
 
@@ -42,7 +46,6 @@ When I'm not programming I like to get outside and explore the great city of Bos
 <i class="fa fa-cloud" /> **Cloud Platforms:** Amazon AWS, Microsoft Azure
 
 <br />
-
 ## Education
 
 ![Wentworth Institute of Technology](img/wit.png) Graduate of Wentworth Institute of Technology with a BS in Computer Science
