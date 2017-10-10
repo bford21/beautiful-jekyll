@@ -38,4 +38,3 @@ Platforms: Windows, Linux, MacO
 ### Education
 
 ![Wentworth Institute of Technology](img/wit.png) Graduated from Wentworth Institute of Technology with a BS in Computer Science
-![Wentworth Institute of Technology](img/wit.png) Graduated from Wentworth Institute of Technology with a BS in Computer Science
