@@ -20,15 +20,15 @@ When I'm not programming I like to get outside and explore the great city of Bos
 <br />
 ## Experience
 
-![Citrix Logo](img/citrix.png) Citrix
+![Citrix Logo](img/citrix.png) **Citrix**
 
 **Software Engineer:** C++/C# code base. Bug fixes, feature development, cloud integrations, devops. Became familair with different 
 
-![Xamarin Logo](img/xamarin.png) Xamarin Inc
+![Xamarin Logo](img/xamarin.png) **Xamarin Inc**
 
 **DevOps Intern:** Managed and maintained build machines and continious integration pipeline. Wrote a Jenkins plugin to upload build artifacts to OneDrive.
 
-![MFS Logo](img/mfs.png) MFS INvestment Management
+![MFS Logo](img/mfs.png) **MFS INvestment Management**
 
 **QA Automation Intern:** Developed automated tests using headless Javascript testing platform that met acceptance criteria.
 
