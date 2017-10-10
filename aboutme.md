@@ -35,4 +35,4 @@ Platforms: Windows, Linux, MacO
 
 ### Education
 
-![Wentworth Institute of Technology](img/wit.png "BS in Computer Science")
+![Wentworth Institute of Technology](img/wit.png) BS in Computer Science
