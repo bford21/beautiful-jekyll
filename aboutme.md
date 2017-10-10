@@ -17,7 +17,7 @@ When I'm not programming I like to get outside and explore the great city of Bos
 >"Get busy living or get busy dying"
 >\- Andy Dufresne (Shawshank Redemption)
 
-### Experience
+## Experience
 
 Citrix: Software Engineer
 
@@ -29,16 +29,14 @@ Percussion Software: Software Engineering Intern
 
 Blue Vase Marketing: IT Department Intern
 
-### Skills
-<img class="fa fa-code" />
+## Skills
+<i class="fa fa-code" /></i> **Programming languages:** Java, C++, C#, Python, Ruby, Javascript, PHP
 
-Programming languages: Java, C++, C#, Python, Ruby, Javascript, PHP
+**Platforms:** Windows, Linux, MacOS
 
-Platforms: Windows, Linux, MacOS
+<i class="fa fa-cloud"></i> **Cloud Platforms:** Amazon AWS, Microsoft Azure
 
-<i class="fa fa-cloud"></i>Cloud Platforms: Amazon AWS, Microsoft Azure
-
-### Education
+<i class="fa fa-graduation-cap"></i>## Education
 
 ![Wentworth Institute of Technology](img/wit.png) I graduated from Wentworth Institute of Technology in 2016 with a BS in Computer Science
 
