@@ -38,6 +38,6 @@ Blue Vase Marketing: IT Department Intern
 
 ## Education
 
-![Wentworth Institute of Technology](img/wit.png) I graduated from Wentworth Institute of Technology in 2016 with a BS in Computer Science
+![Wentworth Institute of Technology](img/wit.png) IGraduate of Wentworth Institute of Technology in 2016 with a BS in Computer Science
 
-Favorite Classes: Operating Systems, Software Engineering
+<i class="fa fa-pencil" /> **Favorite Classes:** Operating Systems, Software Engineering
