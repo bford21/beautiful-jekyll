@@ -36,7 +36,7 @@ Programming languages: Java, C++, C#, Python, Ruby, Javascript, PHP
 
 Platforms: Windows, Linux, MacOS
 
-Cloud Platforms: Amazon AWS, Microsoft Azure
+<i class="fa fa-cloud"></i>Cloud Platforms: Amazon AWS, Microsoft Azure
 
 ### Education
 
