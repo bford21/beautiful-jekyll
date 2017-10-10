@@ -30,13 +30,13 @@ Percussion Software: Software Engineering Intern
 Blue Vase Marketing: IT Department Intern
 
 ## Skills
-<i class="fa fa-code" /></i> **Programming languages:** Java, C++, C#, Python, Ruby, Javascript, PHP
+<i class="fa fa-code" /> **Programming languages:** Java, C++, C#, Python, Ruby, Javascript, PHP
 
 **Platforms:** Windows, Linux, MacOS
 
-<i class="fa fa-cloud"></i> **Cloud Platforms:** Amazon AWS, Microsoft Azure
+<i class="fa fa-cloud" /> **Cloud Platforms:** Amazon AWS, Microsoft Azure
 
-<i class="fa fa-graduation-cap"></i>## Education
+## Education
 
 ![Wentworth Institute of Technology](img/wit.png) I graduated from Wentworth Institute of Technology in 2016 with a BS in Computer Science
 
