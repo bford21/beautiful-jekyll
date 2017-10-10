@@ -17,6 +17,7 @@ When I'm not programming I like to get outside and explore the great city of Bos
 >"Get busy living or get busy dying"
 >\- Andy Dufresne (Shawshank Redemption)
 
+<br />
 ## Experience
 
 ![Citrix Logo](img/citrix.png) Citrix
