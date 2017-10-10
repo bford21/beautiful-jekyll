@@ -36,6 +36,8 @@ Blue Vase Marketing: IT Department Intern
 
 <i class="fa fa-cloud" /> **Cloud Platforms:** Amazon AWS, Microsoft Azure
 
+
+
 ## Education
 
 ![Wentworth Institute of Technology](img/wit.png) Graduate of Wentworth Institute of Technology with a BS in Computer Science
