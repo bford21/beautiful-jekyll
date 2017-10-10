@@ -42,7 +42,7 @@ Title: QA Automation Intern
 
 <i class="fa fa-cloud" /> **Cloud Platforms:** Amazon AWS, Microsoft Azure
 
-
+<br />
 
 ## Education
 
