@@ -24,7 +24,7 @@ Cards that are efficient for mining are in extremely high demand at the moment s
 
 ### CPU
 No need for an expensive CPU. An intel Celeron or Pentium will do. Just make sure to note the socket type (1150 vs 1151) and check that your motherboard supports it.
-For this build I bought an <a href=https://www.amazon.com/gp/product/B00EF1G9DW/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1" >Intel Pentium 1150</a>.
+For this build I bought an <a href="https://www.amazon.com/gp/product/B00EF1G9DW/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1" >Intel Pentium 1150</a>.
 					
 ### Motherboard
 You need a motherboard that supports your CPU's socket type, chipset, and has plenty of PCLe slots. I reccoemend a motherboard specifically made for crypto mining. 
