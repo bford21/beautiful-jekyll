@@ -31,10 +31,13 @@ Blue Vase Marketing: IT Department Intern
 
 ### Skills
 
-Programming languages: Java, C++, C#, Python, Ruby, Javascript, PHP, SQL
+Programming languages: Java, C++, C#, Python, Ruby, Javascript, PHP
 
-Platforms: Windows, Linux, MacO
+Platforms: Windows, Linux, MacOS
+
+Cloud Platforms: Amazon AWS, Microsoft Azure
 
 ### Education
 
-![Wentworth Institute of Technology](img/wit.png) Wentworth Institute of Technology with a BS in Computer Science
+![Wentworth Institute of Technology](img/wit.png) I graduated from Wentworth Institute of Technology in 2016 with a BS in Computer Science
+Favorite Classes: Operating Systems, Software Engineering
