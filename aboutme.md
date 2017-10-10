@@ -33,13 +33,15 @@ When I'm not programming I like to get outside and explore the great city of Bos
 
 ![Percussion Logo](img/percussion.png) Percussion Software
 
-**Software Engineering Intern:** 
+**Software Engineering Intern:** Wrote and maintained nightly automated tests. First introduction to agile and test driven development process.
 
 ![Bluevase Logo](img/bluevase.jpg) Blue Vase Marketing
 
+**IT Department Intern:** Developed web based application in Javascript. Diagnosed PC and server issues.
+
 <br />
 ## Skills
-<i class="fa fa-code" /> **Programming languages:** Java, C++, C#, Python, Ruby, Javascript, PHP
+<i class="fa fa-code" /> **Programming languages:** Java, C++, C#, Python, Ruby, Javascript, PHP, Powershell, GO
 
 <i class="fa fa-cubes" /> **Platforms:** Windows, Linux, MacOS
 
