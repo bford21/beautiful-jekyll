@@ -14,7 +14,7 @@ It was a lot of fun and I quickly became interested in the hardware side of comp
 I made plenty of mistakes building my first mining rig so I wanted to document my parts list and hopefully pass on some knowledge to others out there interested in cryptocurrency mining.
 
 ### Graphics Cards
-Which graphics cards you use is the most important and also most expensive part of a build. For this build I'll be using 4 AMD Radeon RX580 Nitro+ OC 4gb cards. 
+Which graphics cards you use is the most important and also most expensive part of a build. For my first mining rig I stuck with AMD Radeon RX580 graphics cards. 
 AMD RX and R9 series cards are among the most popular due to the combination of price/hashrate/wattage. 
 You need atleast 4gb of memory per card but the more the better. You will see slightly better hashrates on 8gb cards than 4gb ones. 
 
@@ -23,15 +23,30 @@ The hashrate on different cards is going to vary greatly so do your research bef
 Cards that are efficient for mining are in extremely high demand at the moment so finding them might be difficult. <a href="http://www.nowinstock.net/">Nowinstock.net</a> is a great site for getting alerts when cards become available.
 
 ### CPU
-No need for an expensive CPU. An intel Celeron or Pentium will do. Just make sure to note the socket type (1150 vs 1151)
-For this build I bought an <a href="https://www.amazon.com/gp/product/B015VPX05A/ref=oh_aui_detailpage_o06_s01?ie=UTF8&psc=1" >Intel Pentium 1151</a>.
+No need for an expensive CPU. An intel Celeron or Pentium will do. Just make sure to note the socket type (1150 vs 1151) and check that your motherboard supports it.
+For this build I bought an <a href=https://www.amazon.com/gp/product/B00EF1G9DW/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1" >Intel Pentium 1150</a>.
 					
 ### Motherboard
+You need a motherboard that supports your CPU's socket type, chipset, and has plenty of PCLe slots. I reccoemend a motherboard specifically made for crypto mining. 
+I went with <a href="https://www.amazon.com/gp/product/B01M5FQZYE/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1">ASRock H81 Pro BTC</a> which supports a 1150 CPU socket type and has 6 PCLe slots.
 
 ### RAM
+4Gb of RAM is sufficient although RAM is cheap and you could benefit from having 8Gb. Make sure your RAM type (DDR3, DDR4) is supported by your motherboard.
 
 ### SSD or HDD
+You don't need much space for your drive. I was initially using an older repurposed laptop HDD but I decided to just bite the bullet and purchase a small 120gb SSD for increased speed.
 
 ### Power Supply (s)
+In order to power everything I've chosen to go the 2 power supply route. 2 750Watt modular power supplies from EVGA have worked great powering my first rig.
+You can get them on <a href="https://www.amazon.com/gp/product/B017HA3RGE/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1">Amazon</a>.
 
 ### Powered USB Risers
+You want to buy powered usb risers with a 6-pin PCI-E to SATA power cable. They sell risers with molex to SATA power cables but it's best to avoid them. 
+People have reported cables catching fire/melting due to heat. 
+I reccomend the follwing risers from <a href="https://www.amazon.com/gp/product/B06ZY2R85P/ref=crt_ewc_title_oth_2?ie=UTF8&psc=1&smid=A12GMIJD0C8L78">MintCell</a>.
+
+### Optional
+* <a href="https://www.amazon.com/gp/product/B00009MDBU/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1">Wattage Monitor</a>
+* <a href="https://www.amazon.com/gp/product/B01LMZZFWO/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1">Power Button</a>
+
+Note: Keyboard, mouse and monitor required for initial setup. You can then run your miner without them, using SSH to edit and make changes.

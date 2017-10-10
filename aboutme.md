@@ -28,7 +28,7 @@ When I'm not programming I like to get outside and explore the great city of Bos
 
 **DevOps Intern:** Managed and maintained build machines and continious integration pipeline. Wrote a Jenkins plugin to upload build artifacts to OneDrive.
 
-![MFS Logo](img/mfs.png) **MFS INvestment Management**
+![MFS Logo](img/mfs.png) **MFS Investment Management**
 
 **QA Automation Intern:** Developed automated tests using headless Javascript testing platform that met acceptance criteria.
 
@@ -51,6 +51,8 @@ When I'm not programming I like to get outside and explore the great city of Bos
 <i class="fa fa-cubes" /> **Platforms:** Windows, Linux, MacOS
 
 <i class="fa fa-cloud" /> **Cloud Platforms:** Amazon AWS, Microsoft Azure
+
+<i class="fa fa-briefcase" /> **Other Technologies:** Docker, Jenkins, Git, Gitlab
 
 <br />
 ## Education
