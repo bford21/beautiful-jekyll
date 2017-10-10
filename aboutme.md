@@ -19,13 +19,19 @@ When I'm not programming I like to get outside and explore the great city of Bos
 
 ## Experience
 
-![Citrix Logo](img/wit.png) Citrix
+![Citrix Logo](img/citrix.png) Citrix
+
+Title: Software Engineer
 
 ![Xamarin Logo](img/xamarin.png) Xamarin Inc
 
+Title: DevOps Intern
+
 ![MFS Logo](img/mfs.png) MFS INvestment Management
 
-![Percussion Logo](img/percussion.jpg) Percussion Software
+Title: QA Automation Intern
+
+![Percussion Logo](img/percussion.png) Percussion Software
 
 ![Bluevase Logo](img/bluevase.jpg) Blue Vase Marketing
 
