@@ -4,6 +4,7 @@ title: What do you need in order to build an Ethereum mining rig?
 image: /img/etherLogo.png
 bigimg: /img/first-miner.jpg
 tags: [ethereum, ether, crypto, currency, cryptocurrency, mine, miner, mining, graphics cards, bitcoin]
+comments: true
 ---
 
 I've always found cryptocurrencies like Bitcoin, Ethereum and Litecoin extremely interesting. Especially the underlying technology called blockchain. 
