@@ -21,7 +21,7 @@ When I'm not programming I like to get outside and explore the great city of Bos
 
 ![Citrix Logo](img/citrix.png) Citrix
 
-**Software Engineer:** C++/C# code base. Bug fixes, feature development, cloud integrations, devops
+**Software Engineer:** C++/C# code base. Bug fixes, feature development, cloud integrations, devops. Became familair with different 
 
 ![Xamarin Logo](img/xamarin.png) Xamarin Inc
 
@@ -35,9 +35,14 @@ When I'm not programming I like to get outside and explore the great city of Bos
 
 **Software Engineering Intern:** Wrote and maintained nightly automated tests. First introduction to agile and test driven development process.
 
+![Wentworth Logo](img/wit2.jpg) Wentworth Institute of Technology
+
+**CS Teachers Assistant:** Crafted a basic C++/networking boot camp aimed at introducing incoming students to basic programming concepts.
+
 ![Bluevase Logo](img/bluevase.jpg) Blue Vase Marketing
 
 **IT Department Intern:** Developed web based application in Javascript. Diagnosed PC and server issues.
+
 <br />
 ## Skills
 <i class="fa fa-code" /> **Programming languages:** Java, C++, C#, Python, Ruby, Javascript, PHP, Powershell, GO
