@@ -19,15 +19,15 @@ When I'm not programming I like to get outside and explore the great city of Bos
 
 ## Experience
 
-Citrix: Software Engineer
+![Citrix Logo](img/wit.png) Citrix
 
-Xamarin Inc: Devops Intern
+![Xamarin Logo](img/xamarin.png) Xamarin Inc
 
-MFS INvestment Management: QA Automation Intern
+![MFS Logo](img/mfs.png) MFS INvestment Management
 
-Percussion Software: Software Engineering Intern
+![Percussion Logo](img/percussion.jpg) Percussion Software
 
-Blue Vase Marketing: IT Department Intern
+![Bluevase Logo](img/bluevase.jpg) Blue Vase Marketing
 
 ## Skills
 <i class="fa fa-code" /> **Programming languages:** Java, C++, C#, Python, Ruby, Javascript, PHP
