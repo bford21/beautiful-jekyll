@@ -22,7 +22,7 @@ When I'm not programming I like to get outside and explore the great city of Bos
 
 ![Citrix Logo](img/citrix.png) **Citrix**
 
-**Software Engineer:** C++/C# code base. Bug fixes, feature development, cloud integrations, devops. Became familair with different 
+**Software Engineer:** C++/C# code base. Bug fixes, feature development, cloud integrations, devops.
 
 ![Xamarin Logo](img/xamarin.png) **Xamarin Inc**
 
