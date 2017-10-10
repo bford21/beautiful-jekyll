@@ -38,7 +38,6 @@ When I'm not programming I like to get outside and explore the great city of Bos
 ![Bluevase Logo](img/bluevase.jpg) Blue Vase Marketing
 
 **IT Department Intern:** Developed web based application in Javascript. Diagnosed PC and server issues.
-
 <br />
 ## Skills
 <i class="fa fa-code" /> **Programming languages:** Java, C++, C#, Python, Ruby, Javascript, PHP, Powershell, GO
