@@ -35,5 +35,4 @@ Platforms: Windows, Linux, MacO
 
 ### Education
 
-![BWentworth Institute of Technology](img/wit.png =821x250)
-I graduated from Wentworth Institute of Technology in 2016 with a BS in Computer Science
+![Wentworth Institute of Technology](img/wit.png "BS in Computer Science")
