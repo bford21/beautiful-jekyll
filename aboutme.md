@@ -30,6 +30,9 @@ Percussion Software: Software Engineering Intern
 Blue Vase Marketing: IT Department Intern
 
 ### Skills
+<span class="fa fa-code">
+
+</span>
 
 Programming languages: Java, C++, C#, Python, Ruby, Javascript, PHP
 
