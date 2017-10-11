@@ -16,7 +16,8 @@ comments: true
  
  <br />
  <p align="center"><a href="/viz.html">Open Visualization</a></p>
- 
+
+<br />
 ### Future Feature List
 1. Update to pull from latest dataset which is updated through July 21, 2017
 2. Add additional filters (crime, weapon, street)
