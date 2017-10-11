@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Vis </title>
+    <link rel = "stylesheet" href = "style.css" type = "text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+    <style type="text/css">
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map { height: 100%; }
+      #numEntries{  width: 80%; }
+      #search{width: 80%;}
+    </style>
+
+    <script>
+      var map;
+      var markersArray = [];
+
+      // First page load
+      $(window).load(function() {
+        // Construct the catalog query string
+        url = 'https://data.cityofboston.gov/resource/7cdf-6fgx.json?$select=*&$limit=100';
+
+        // Retrieve our data and plot it
+        $.getJSON(url, function(data, textstatus) {
+              $.each(data, function(i, entry) {
+                addMarker(entry.location.latitude, entry.location.longitude, entry.reptdistrict, entry.incident_type_description, entry.fromdate, entry.weapontype,
+                          entry.shooting, entry.domestic, entry.streetname,  map);
+              });
+        });
+      });
+
+      // Initialization Function
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat:	42.364506, lng:	-71.038887},
+          zoom: 12
+        });
+      };
+
+      // Add the marker at the x, y location. When clicked, display the description above with maxWidth.
+      function addMarker(x, y, district, typeDescription, date, weaponType, shooting, domestic, streetname, map) {
+        var infowindow = new google.maps.InfoWindow({
+          content: "Description: " + typeDescription + "<br/>Date: " + date + "<br />Street Name: " + streetname + "<br />District: " + district + "<br />Shooting: " + shooting + "<br />Domestic: " + domestic + "<br />Weapon: " + weaponType,
+          maxWidth: 400
+        });
+        var marker = new google.maps.Marker({
+          position: new google.maps.LatLng(x,y),
+          map: map
+        });
+        marker.addListener('click', function() {
+          infowindow.open(map, marker);
+        });
+
+        // Add to Markers Array
+        markersArray.push(marker);
+      }
+
+      function clearMarkers() {
+        for (var i = 0; i < markersArray.length; i++ ) {
+          markersArray[i].setMap(null);
+        }
+        markersArray.length = 0;
+      }
+
+
+      function changeNum(){
+        var num = document.getElementById('numEntries').value;
+        clearMarkers();
+
+        // Construct the catalog query string
+        url = 'https://data.cityofboston.gov/resource/7cdf-6fgx.json?$select=*&$limit=' + num;
+
+        // Retrieve our data and plot it
+        $.getJSON(url, function(data, textstatus) {
+              console.log(data);
+              $.each(data, function(i, entry) {
+                addMarker(entry.location.latitude, entry.location.longitude, entry.reptdistrict, entry.incident_type_description, entry.fromdate, entry.weapontype,
+                          entry.shooting, entry.domestic, entry.streetname,  map);
+              });
+        });
+      }
+
+      function filter(){
+        var shooting = document.getElementById('shooting').checked;
+        var district = document.getElementById('district').value;
+        var year = document.getElementById('year').value;
+        var num = markersArray.length;
+
+        clearMarkers();
+        url = 'https://data.cityofboston.gov/resource/7cdf-6fgx.json?$select=*';
+
+        //if(shooting && district != "")
+          //url += '&shooting=yes&reptdistrict=' + district;
+        if(district != "")
+          url += '&reptdistrict=' + district;
+        if(shooting)
+          url += '&shooting=yes';
+        if(year != "")
+          url += '&year=' + year;
+
+        // Retrieve our data and plot it
+        $.getJSON(url, function(data, textstatus) {
+              console.log(data);
+              $.each(data, function(i, entry) {
+                addMarker(entry.location.latitude, entry.location.longitude, entry.reptdistrict, entry.incident_type_description, entry.fromdate, entry.weapontype,
+                          entry.shooting, entry.domestic, entry.streetname,  map);
+              });
+        });
+      }
+
+    </script>
+  </head>
+  <body bgcolor = "#e6e6e6">
+    <div id = "sidebar">
+      <br />
+      <div class = "sidebar-item">
+        <p class = "title">Boston Crime Incident Visualization</p>
+        <p class = "text">This web application plots crime incident data across the city of Boston using the Google Maps API and allows users to sort based on different criteria. The data
+                          set is open to the public and can be viewed at the <a href="https://data.cityofboston.gov/" target="_blank">CityofBoston.gov</a></p>
+      </div>
+
+      <br />
+      <br />
+      <form>
+
+        <div class = "sidebar-item">
+          <div class="form-group">
+            <label for="numEntries">Number of entries shown on map: </label>
+              <input type="text" id="numEntries" placeholder="Default is 100" class="form-control"/>
+          </div>
+        </div>
+        <div class="sidebar-item">
+          <button id="search" type="button" class="btn btn-success" onclick="changeNum()">Show</button>
+        </div>
+
+        <br />
+        <br />
+
+        <div class = "sidebar-item">
+          <p class = "title"> Show only: </p>
+          <div class="checkbox">
+            <label><input id="shooting" type="checkbox">Shootings</label>
+          </div>
+        </div>
+        <br />
+        <div class="sidebar-item">
+          <label>District<select class="form-control" id="district">
+  					<option></option>
+            <option value="A1">A1</option>
+            <option value="A15">A15</option>
+            <option value="A7">A7</option>
+            <option value="B2">B2</option>
+            <option value="B3">B3</option>
+            <option value="C11">C11</option>
+            <option value="C6">C6</option>
+            <option value="D14">D14</option>
+            <option value="D4">D4</option>
+            <option value="E13">E13</option>
+            <option value="E18">E18</option>
+            <option value="E5">E5</option>
+  				</select></label>
+        </div>
+        <div class="sidebar-item">
+          <label>Year<select class="form-control" id="year">
+  					<option></option>
+            <option value="2015">2015</option>
+            <option value="2014">2014</option>
+            <option value="2013">2013</option>
+            <option value="2012">2012</option>
+  				</select></label>
+        </div>
+        <div class="sidebar-item">
+          <button id="search" type="button" class="btn btn-success" onclick="filter()">Filter</button>
+        </div>
+
+        <br />
+        <br />
+        <br />
+
+        </form>
+    </div>
+    <div id="map"></div>
+    <script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVbBLoaOO-qCEt1fuexen4ouXrUeI-eJE&callback=initMap">
+    </script>
+  </body>
+</html>

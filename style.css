@@ -1,0 +1,47 @@
+#sidebar
+{
+  float: left;
+  width: 20%;
+  height: 90%;
+  overflow-y: auto;
+}
+
+#map
+{
+  width: 80%;
+  float: right;
+}
+
+#quote{
+	font-style: italic;
+}
+
+#right-align{
+	text-align:right;
+}
+
+.sidebar-item
+{
+  margin-left: 5%
+}
+
+.title
+{
+  font-size: 18px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.text
+{
+  font-size: 14px;
+  font-family: sans-serif;
+}
+
+.blog-title{
+	color: #18bc9c;
+}
+
+.bold{
+	font-weight: bold;
+}
