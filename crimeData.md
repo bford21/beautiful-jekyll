@@ -9,7 +9,7 @@ bigimg: /img/crimeDataBG.png
  I had always wanted to write a web app to visualize a data set and thought it would be interesting to plot each crime where it took place on a map using the google maps API. 
  Implementing features like search and filtering allows users to easily visualize a dataset of their choosing. 
  
- ** Languages Used: Javascript, JQuery, JSON, HTML, CSS**
+ **Languages Used: Javascript, JQuery, JSON, HTML, CSS**
  
  <a href="/viz.html">Open Visualization</a>
  
