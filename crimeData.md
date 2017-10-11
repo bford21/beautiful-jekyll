@@ -11,5 +11,5 @@ bigimg: /img/boston.jpg
  
  Languages Used: **Javascript, JQuery, JSON, HTML, CSS**
  
-<p align="center"><a href="/viz.html">Open Visualization</a></p>
+<p align="center"><a href="/viz.html">**Open Visualization**</a></p>
  
