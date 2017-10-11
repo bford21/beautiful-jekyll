@@ -17,10 +17,10 @@ comments: true
  <br />
  <p align="center"><a href="/viz.html">Open Visualization</a></p>
  
- ### Future Feature List
- 1. Update to pull from latest dataset which is updated through July 21, 2017
- 2. Add additional filters (crime, weapon, street)
- 3. Add ability to search between 2 specific dates
+### Future Feature List
+1. Update to pull from latest dataset which is updated through July 21, 2017
+2. Add additional filters (crime, weapon, street)
+3. Add ability to search between 2 specific dates
  
 Reccomend me a feature you'd like to see in the comments!
  
