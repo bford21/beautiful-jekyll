@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Crime Data Visualization 
-subtitle: Languages Used Javascript, JQuery, HTML, CSS
+subtitle: Javascript, JQuery, JSON, HTML, CSS
 bigimg: /img/mapsAPI.png
 ---
 
