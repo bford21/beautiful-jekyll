@@ -2,7 +2,7 @@
 layout: page
 title: Visualization of Boston Crimes
 subtitle: Javascript web app
-bigimg: /img/boston2.jpg
+bigimg: /img/boston3.jpg
 ---
  
  The Crime Incident Report dataset released by the Boston Police Department details all the crimes commited in the city of Boston. I found this data on the city of Bostons website, CityofBoston.gov and was suprised by how much was openly available to the public.
