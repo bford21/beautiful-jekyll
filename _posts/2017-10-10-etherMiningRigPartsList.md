@@ -44,7 +44,7 @@ You can get them on <a href="https://www.amazon.com/gp/product/B017HA3RGE/ref=oh
 ### Powered USB Risers
 You want to buy powered usb risers with a 6-pin PCI-E to SATA power cable. They sell risers with molex to SATA power cables but it's best to avoid them. 
 People have reported cables catching fire/melting due to heat. 
-I reccomend the follwing risers from <a href="https://www.amazon.com/gp/product/B06ZY2R85P/ref=crt_ewc_title_oth_2?ie=UTF8&psc=1&smid=A12GMIJD0C8L78">MintCell</a>.
+I recommend the follwing risers from <a href="https://www.amazon.com/gp/product/B06ZY2R85P/ref=crt_ewc_title_oth_2?ie=UTF8&psc=1&smid=A12GMIJD0C8L78">MintCell</a>.
 
 ### Optional
 * <a href="https://www.amazon.com/gp/product/B00009MDBU/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1">Wattage Monitor</a>
