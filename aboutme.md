@@ -52,7 +52,7 @@ When I'm not programming I like to get outside and explore the great city of Bos
 
 <i class="fa fa-cloud" /> **Cloud Platforms:** Amazon AWS, Microsoft Azure
 
-<i class="fa fa-briefcase" /> **Other Technologies:** Docker, Jenkins, Git, Gitlab
+<i class="fa fa-briefcase" /> **Other Technologies:** Docker, Service Fabric, Jenkins, Git, Gitlab
 
 <br />
 ## Education
