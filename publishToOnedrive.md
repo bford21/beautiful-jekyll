@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Open Source Jenkins Plugin
+comments: true
 ---
 
 Publish-Over-Onedrive is an in progress open source Jenkins plugin based on publish-to-ftp and extends the open source publish-to and basic-credentials projects. 

@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Wentworth Institute of Technology Scheduler
-subtitle: Web based app allowing students to easily create schedules
+title: WIT Class Scheduler
+subtitle: Web based app allowing Wentworth students to easily create schedules
+comments: true
 ---
