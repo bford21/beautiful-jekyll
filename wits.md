@@ -2,6 +2,7 @@
 layout: page
 title: WIT Class Scheduler
 subtitle: Web based app allowing Wentworth students to easily create schedules
+bigimg: /img/wits.png
 comments: true
 ---
 
@@ -9,3 +10,6 @@ WITS (Wentworth Institute of Technology Scheduler) is a web based application th
 such as when they are available to take classes, what classes they have to take and what professors they do not want to have a class with.
 Based on this criteria it will generate all schedule combinations for a user.
 
+Languages used: **Javascript, PHP, JQuery, HTML, CSS, SQL**
+
+<p align="center"><a href="WITS\index.html">View Project</a></p>
