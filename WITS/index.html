@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>WITS - Scheduler</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+
+  <script type="text/javascript" src="validation.min.js"></script>
+
+  <!-- CSS --->
+  <style>
+  #loginValidation {
+    color: red;
+    text-align: right;
+  }
+
+  </style>
+
+  <script>
+  function loginValidate(){
+    var email = document.getElementById('loginEmail').value;
+    var password = document.getElementById('loginPassword').value;
+
+    var xhr;
+    if (window.XMLHttpRequest) { // Mozilla, Safari, ...
+        xhr = new XMLHttpRequest();
+    } else if (window.ActiveXObject) { // IE 8 and older
+        xhr = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    var data = "email=" + email + "&password=" + password;
+    xhr.open("POST", "loginConfirm.php", true);
+    xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+    xhr.send(data);
+
+    xhr.onreadystatechange = display_data;
+    function display_data() {
+     if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        document.getElementById("loginValidation").innerHTML = xhr.responseText;
+
+        if(xhr.responseText.indexOf("Success") > -1){
+          window.location = "http://www.witsboston.com/userHome.php";
+        }
+      } else {
+        alert('There was a problem with the request.');
+      }
+     }
+  }
+  }
+
+  /*function validateForm() {
+
+      /*if(password !== passwordConfirm){
+        document.getElementById("validation").innerHTML = "Passwords do not match.";
+        return false;
+      }
+      //  document.getElementById("validation").innerHTML = "Test";
+
+      var ajaxRequest;  // The variable that makes Ajax possible!
+
+               try {
+                  // Opera 8.0+, Firefox, Safari
+                  ajaxRequest = new XMLHttpRequest();
+               }catch (e) {
+                  // Internet Explorer Browsers
+                  try {
+                     ajaxRequest = new ActiveXObject("Msxml2.XMLHTTP");
+                  }catch (e) {
+                     try{
+                        ajaxRequest = new ActiveXObject("Microsoft.XMLHTTP");
+                     }catch (e){
+                        // Something went wrong
+                        alert("Your browser broke!");
+                        return false;
+                     }
+                  }
+               }
+
+               // Create a function that will receive data
+               // sent from the server and will update
+               // div section in the same page.
+
+               ajaxRequest.onreadystatechange = function(){
+                  if(ajaxRequest.readyState == 4 && xmlhttp.status == 200){
+                     var ajaxDisplay = document.getElementById('validation');
+                     ajaxDisplay.innerHTML = ajaxRequest.responseText;
+                  }
+               }
+
+               var fname = document.getElementById('fname').value;
+               var lname = document.getElementById('lname').value;
+               var password = document.getElementById('password').value;
+               var passwordConfirm = document.getElementById('passwordConfirm').value;
+               var email = document.getElementById('email').value;
+
+
+               // Now get the value from user and pass it to
+               // server script.
+               var queryString =  "?fname=" + fname + "&lname=" + lname + "&email=" + email + "&password=" + password;
+               ajaxRequest.open("GET", "register.php" + queryString, true);
+               ajaxRequest.send(null);
+
+      }
+      */
+
+      function validateRegister(){
+        var fname = document.getElementById('fname').value;
+        var lname = document.getElementById('lname').value;
+        var password = document.getElementById('password').value;
+        var passwordConfirm = document.getElementById('passwordConfirm').value;
+        var email = document.getElementById('email').value;
+
+        var xhr;
+        if (window.XMLHttpRequest) { // Mozilla, Safari, ...
+            xhr = new XMLHttpRequest();
+        } else if (window.ActiveXObject) { // IE 8 and older
+            xhr = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+
+        var data = "fname=" + fname + "&lname=" + lname + "&email=" + email + "&password=" + password + "&passwordConfirm=" + passwordConfirm;
+        xhr.open("POST", "register.php", true);
+        xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+        xhr.send(data);
+
+        xhr.onreadystatechange = display_data;
+        function display_data() {
+         if (xhr.readyState == 4) {
+           if (xhr.status == 200) {
+             document.getElementById("validation").innerHTML = xhr.responseText;
+
+             // Success -- need to edit what success means
+             if(xhr.responseText.indexOf("Success") > -1){
+               window.location = "http://www.witsboston.com/confirm.html";
+             }
+           } else {
+             alert('There was a problem with the request.');
+           }
+          }
+        }
+      }
+
+  </script>
+</head>
+<body>
+
+  <!-- NAV BAR -->
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">WITS</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <form class="navbar-form navbar-right" >
+            <div class="form-group">
+              <input type="text" placeholder="Email" class="form-control" id="loginEmail" required>
+            </div>
+            <div class="form-group">
+              <input type="password" placeholder="Password" class="form-control" id="loginPassword" required>
+            </div>
+            <button type="button" class="btn btn-success" onclick="loginValidate()">Sign in</button>
+          </form>
+        </div><!--/.navbar-collapse -->
+        <p id="loginValidation"></p>
+      </div>
+    </nav>
+
+    <!-- Jumbotron --->
+    <div class="jumbotron">
+      <div class="container">
+        <div class="col-md-8">
+          <h2>Come join WITS!</h2>
+          <p>Sign up for WITS today and begin crafting your perfect schedule!</p>
+          <p><a class="btn btn-primary btn-lg" href="#" role="button">Register Now &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <br />
+          <img src="Images/calendar.png" alt="Calendar" style="width:128px;height:128px;" />
+        </div>
+      </div>
+    </div>
+
+    <!-- Registration Form -->
+    <div class="container">
+      <h2>Register:</h2>
+      <form name="registrationForm" method="post" >
+        <input type="text" class="form-control" placeholder="First Name" aria-describedby="basic-addon" id="fname" required="true" />
+        <br />
+        <input type="text" class="form-control" placeholder="Last Name" aria-describedby="basic-addon" id="lname" required="true" />
+        <br />
+        <input type="password" class ="form-control" placeholder="Password" aria-describedby="bassic-addon" id="password" required="true" />
+        <br />
+        <input type="password" class ="form-control" placeholder="Confirm Password" aria-describedby="bassic-addon" id="passwordConfirm" required="true" />
+        <br />
+        <div class="input-group">
+          <input type="text" class="form-control" placeholder="Email" aria-describedby="basic-addon2" id="email" required="true" />
+          <span class="input-group-addon" id="basic-addon2">@wit.edu</span>
+        </div>
+        <br />
+        <button type="button" class="btn btn-success" onclick="validateRegister()">Register</button>
+      </form>
+      <br />
+      <p id="validation"></p>
+    </div>
+
+</body>
+</html>
