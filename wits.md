@@ -11,7 +11,7 @@ Based on this criteria it will generate all schedule combinations for a user.
 
 Languages used: **Javascript, PHP, JQuery, HTML, CSS, SQL**
 
-<p align="center"><a href="https://github.com/bford21/WITS">View pn Github</a></p>
+<p align="center"><a href="https://github.com/bford21/WITS">View on Github</a></p>
 
 bigimg: /img/wits.png
 
