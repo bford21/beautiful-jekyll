@@ -12,4 +12,4 @@ Based on this criteria it will generate all schedule combinations for a user.
 
 Languages used: **Javascript, PHP, JQuery, HTML, CSS, SQL**
 
-<p align="center"><a href="WITS\index.html">View Project</a></p>
+<p align="center"><a href="/WITS/index.html">View Project</a></p>
