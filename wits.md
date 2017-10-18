@@ -13,6 +13,4 @@ Languages used: **Javascript, PHP, JQuery, HTML, CSS, SQL**
 
 <p align="center"><a href="https://github.com/bford21/WITS">View on Github</a></p>
 
-bigimg: /img/wits.png
-
 ![WITS Screenshot](img/wits.png) 
