@@ -2,7 +2,6 @@
 layout: page
 title: WIT Class Scheduler
 subtitle: Web based app allowing Wentworth students to easily create schedules
-bigimg: /img/wits.png
 comments: true
 ---
 
@@ -12,4 +11,8 @@ Based on this criteria it will generate all schedule combinations for a user.
 
 Languages used: **Javascript, PHP, JQuery, HTML, CSS, SQL**
 
-<p align="center"><a href="/WITS/index.html">View Project</a></p>
+<p align="center"><a href="https://github.com/bford21/WITS">View pn Github</a></p>
+
+bigimg: /img/wits.png
+
+![WITS Screenshot](img/wits.png) 
