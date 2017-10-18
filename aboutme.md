@@ -26,7 +26,7 @@ When I'm not programming I like to get outside and explore the great city of Bos
 
 ![Xamarin Logo](img/xamarin.png) **Xamarin Inc**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**DevOps Intern:** Managed and maintained build machines and continious integration pipeline. Wrote a Jenkins plugin to upload build artifacts to OneDrive.
+**DevOps Intern:** Managed and maintained build machines and continious integration pipeline. Wrote a Jenkins plugin to upload build artifacts to OneDrive.
 
 ![MFS Logo](img/mfs.png) **MFS Investment Management**
 
