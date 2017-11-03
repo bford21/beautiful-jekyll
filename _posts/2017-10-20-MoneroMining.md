@@ -52,8 +52,8 @@ The current price of Monero based on data retrieved from the CryptoCompare API i
 <br />
 ### Miner Stats since visiting this page
 <div>
-Hashes per second: <p id="hashesPerSecond"></p>
-Total Hashes: <p id="totalHashes"></p>
-Accepted Hashes: <p id="acceptedHashes"></p>
+#Hashes per second: <p id="hashesPerSecond"></p>
+**Total Hashes:** <p id="totalHashes"></p>
+##Accepted Hashes: <p id="acceptedHashes"></p>
 <br />
 </div> 
