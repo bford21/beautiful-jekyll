@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mining crypto using your web browser
+title: Mining crypto with a web browser
+subtitle: Fun Fun Fun
 image: /img/monero.png
 tags: [monero, XMR, crypto, currency, cryptocurrency, mine, miner, mining, graphics cards, bitcoin]
 comments: true
