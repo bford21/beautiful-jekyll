@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post, hello world!
+title: print("Hello World")
 image: /img/hello_world.jpeg
 tags: [first, about, blog, hello, world, intro]
 comments: true
