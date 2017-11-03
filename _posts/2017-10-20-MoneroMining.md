@@ -6,3 +6,5 @@ bigimg: /img/first-miner.jpg
 tags: [monero, XMR, crypto, currency, cryptocurrency, mine, miner, mining, graphics cards, bitcoin]
 comments: true
 ---
+
+Hello
