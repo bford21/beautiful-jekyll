@@ -45,10 +45,13 @@ I thought this was an interesting idea and had to try it out for myself. Is it e
 	}
 </script>
 **The page you are on is currently utilizing your CPU to mine Monero.**
+
 The current price of Monero based on data retrieved from the CryptoCompare API is <p id="XMRprice"></p>
 
 <br />
 <br />
+<p>The current price of Monero based on data retrieved from the CryptoCompare API is <p id="XMRprice"></p>
+				
 ### Miner Stats since visiting this page
 <div>
 #Hashes per second: <p id="hashesPerSecond"></p>
