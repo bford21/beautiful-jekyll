@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to mine Monero using Javascript
+title: Mining Monero using Javascript
 image: /img/monero.png
 tags: [monero, XMR, crypto, currency, cryptocurrency, mine, miner, mining, graphics cards, bitcoin]
 comments: true
@@ -45,12 +45,12 @@ The results of that are seen on this page.
 	}
 </script>
 
-	<p>Monero (XMR) is a cryptocurrency focused around privacy, decentralization and scalability. It was created in April of 2014 and has since seen a huge uptick in adoption. 
-	The current price of Monero based on data retrieved from the CryptoCompare API is <p id="XMRprice"></p>
-	<br />
-	<br />
-	<h3>Miner Stats since visiting this page</h3>
-	<div>
-	Hashes per second: <p id="hashesPerSecond"></p>
-	Total Hashes: <p id="totalHashes"></p>
-	Accepted Hashes: <p id="acceptedHashes"></p>
+<p>Monero (XMR) is a cryptocurrency focused around privacy, decentralization and scalability. It was created in April of 2014 and has since seen a huge uptick in adoption. 
+The current price of Monero based on data retrieved from the CryptoCompare API is <p id="XMRprice"></p>
+<br />
+<br />
+<h3>Miner Stats since visiting this page</h3>
+<div>
+Hashes per second: <p id="hashesPerSecond"></p>
+Total Hashes: <p id="totalHashes"></p>
+Accepted Hashes: <p id="acceptedHashes"></p>
