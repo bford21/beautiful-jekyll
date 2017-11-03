@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mining crypto using your web browser?
+title: Mining crypto using your web browser
 image: /img/monero.png
 tags: [monero, XMR, crypto, currency, cryptocurrency, mine, miner, mining, graphics cards, bitcoin]
 comments: true
@@ -46,17 +46,8 @@ I thought this was an interesting idea and had to try it out for myself. Is it e
 </script>
 **The page you are on is currently utilizing your CPU to mine Monero.**
 
-The current price of Monero based on data retrieved from the CryptoCompare API is <p id="XMRprice"></p>
-
-<br />
-<br />
-<p>Monero (XMR) is a cryptocurrency focused around privacy, decentralization and scalability. It was created in April of 2014 and has since seen a huge uptick in adoption. 
-				The current price of Monero based on data retrieved from the CryptoCompare API is <p id="XMRprice"></p>
-				
 ### Miner Stats since visiting this page
-<div>
+
 #Hashes per second: <p id="hashesPerSecond"></p>
 **Total Hashes:** <p id="totalHashes"></p>
 ##Accepted Hashes: <p id="acceptedHashes"></p>
-<br />
-</div> 
