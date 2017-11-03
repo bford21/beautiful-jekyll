@@ -14,8 +14,7 @@ I thought this was an interesting idea and had to try it out for myself. Is it e
 
 **The page you are on is currently utilizing your CPU to mine Monero.**
 
-{: .box-note}
-**Note:** This is a notification box.
+
 
 ### Miner Stats since visiting this page
 
@@ -23,20 +22,3 @@ I thought this was an interesting idea and had to try it out for myself. Is it e
 **Total Hashes:** <p id="totalHashes"></p>
 ##Accepted Hashes: <p id="acceptedHashes"></p>
 
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
