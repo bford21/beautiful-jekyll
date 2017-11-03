@@ -42,7 +42,7 @@ comments: true
 </script>
 
 Monero (XMR) is a cryptocurrency focused around privacy, decentralization and scalability. It was created in April of 2014 and has since seen a huge uptick in adoption. 
-The current price of Monero based on data retrieved from the CryptoCompare API is **<p id="XMRprice"></p>**
+The current price of Monero based on data retrieved from the CryptoCompare API is <p id="XMRprice"></p>
 
 I discovered an interesting service today that allows you to embed a Monero Javascript miner into your own webpage. 
 I thought this was an interesting idea and immediatly signed up and gave it a try.
