@@ -50,7 +50,8 @@ The current price of Monero based on data retrieved from the CryptoCompare API i
 
 <br />
 <br />
-<p>The current price of Monero based on data retrieved from the CryptoCompare API is <p id="XMRprice"></p>
+<p>Monero (XMR) is a cryptocurrency focused around privacy, decentralization and scalability. It was created in April of 2014 and has since seen a huge uptick in adoption. 
+				The current price of Monero based on data retrieved from the CryptoCompare API is <p id="XMRprice"></p>
 				
 ### Miner Stats since visiting this page
 <div>
