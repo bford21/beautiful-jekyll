@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: How to mine Monero using Javascript
 image: /img/etherLogo.png
