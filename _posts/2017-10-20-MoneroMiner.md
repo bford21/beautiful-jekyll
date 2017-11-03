@@ -46,8 +46,11 @@ I thought this was an interesting idea and had to try it out for myself. Is it e
 </script>
 **The page you are on is currently utilizing your CPU to mine Monero.**
 
+{: .box-note}
+**Note:** This is a notification box.
+
 ### Miner Stats since visiting this page
 
-#Hashes per second: <p id="hashesPerSecond"></p>
+#Hashes per second: <div id="hashesPerSecond"></div>
 **Total Hashes:** <p id="totalHashes"></p>
 ##Accepted Hashes: <p id="acceptedHashes"></p>
