@@ -70,7 +70,7 @@ window.onload = function(){
 <td id="totalHashes"></td>
 </tr>
 </table>
-<br />
+
 <table>
 	<tr>
 		<td>Current Price of Monero</td>
