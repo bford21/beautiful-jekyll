@@ -8,6 +8,8 @@ comments: true
 ---
 <a href="https://getmonero.org/" >Monero (XMR)</a> is a cryptocurrency focused around privacy, decentralization and scalability.
 It was created in April of 2014 and has since seen a huge uptick in adoption.
+To mine Monero, you have to calculate hashes with an algorithm called Cryptonight.
+This algorithm is very compute heavy and – while overall pretty slow – was designed to run well on consumer CPUs.
 
 <table>
 	<tr>
