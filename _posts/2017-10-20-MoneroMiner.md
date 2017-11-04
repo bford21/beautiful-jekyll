@@ -59,6 +59,15 @@ window.onload = function(){
 <p id="totalHashes"></p>
 ## Accepted Hashes: <p id="acceptedHashes"></p>
 
+<table>
+	<tr>
+		<td>Hashes Per Second</td>
+		<td id="XMRprice"></td>
+	</tr>
+	<tr>
+	</tr>
+</table>
+
 ### Current Monero Price 
 <p id="XMRprice"></p>
 
