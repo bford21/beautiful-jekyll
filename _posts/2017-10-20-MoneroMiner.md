@@ -70,9 +70,7 @@ window.onload = function(){
 <td id="acceptedHashes"></td>
 </tr>
 </table>
-
 <br />
-
 <table>
 	<tr>
 		<td>Current Price of Monero</td>
