@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mining crypto with a web browser
-subtitle: What is Monero?
 image: /img/monero.png
 tags: [monero, XMR, crypto, currency, cryptocurrency, mine, miner, mining, graphics cards, bitcoin]
 comments: true
@@ -53,22 +52,26 @@ window.onload = function(){
 
 ## Miner Stats since visiting this page
 
-### Hashes per second: 
-<div id="hashesPerSecond"></div>
-### Total Hashes: 
-<p id="totalHashes"></p>
-## Accepted Hashes: <p id="acceptedHashes"></p>
-
 <table>
 	<tr>
 		<td>Hashes Per Second</td>
-		<td id="XMRprice"></td>
+		<td id="hashesPerSecond"></td>
 	</tr>
 	<tr>
+		<td>Total Hashes</td>
+		<td id="totalHashes"></td>
+	</tr>
+	<tr>
+		<td>Accepted Hashes</td>
+		<td id="acceptedHashes"></td>
 	</tr>
 </table>
 
-### Current Monero Price 
-<p id="XMRprice"></p>
+<table>
+	<tr>
+		<td>Current Price of Monero</td>
+		<td id="XMRprice"></td>
+	</tr>
+</table>
 
 
