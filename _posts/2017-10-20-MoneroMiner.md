@@ -62,12 +62,12 @@ window.onload = function(){
 <td id="hashesPerSecond"></td>
 </tr>
 <tr>
-<td>Total Hashes</td>
-<td id="totalHashes"></td>
-</tr>
-<tr>
 <td>Accepted Hashes</td>
 <td id="acceptedHashes"></td>
+</tr>
+<tr>
+<td>Total Hashes</td>
+<td id="totalHashes"></td>
 </tr>
 </table>
 <br />
