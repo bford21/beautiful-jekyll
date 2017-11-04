@@ -51,15 +51,17 @@ window.onload = function(){
 }
 </script>
 
-### Miner Stats since visiting this page
+## Miner Stats since visiting this page
 
-# Hashes per second: 
+### Hashes per second: 
 <div id="hashesPerSecond"></div>
-**Total Hashes:** 
+### Total Hashes: 
 <p id="totalHashes"></p>
-## Accepted Hashes: 
-<p id="acceptedHashes"></p>
+## Accepted Hashes: <p id="acceptedHashes"></p>
 
 ### Current Monero Price 
 <p id="XMRprice"></p>
+
+{: .box-error}
+**Error:** This is an error box.
 
