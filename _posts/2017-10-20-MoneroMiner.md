@@ -70,8 +70,7 @@ window.onload = function(){
 <td id="totalHashes"></td>
 </tr>
 </table>
-
-
+___
 
 <table>
 	<tr>
@@ -80,4 +79,5 @@ window.onload = function(){
 	</tr>
 </table>
 
-
+Above you can see some basic statistics about the type of hashing power your CPU has.
+I've hard coded the miner to only operate using 1 thread so it's not nearly as powerful as it could be.
