@@ -13,6 +13,8 @@ I thought this was an interesting idea and had to try it out for myself. Is it e
 
 {: .box-warning}
 **Warning:** The page you are on is currently utilizing your CPU to mine Monero.
+
+
 ___
 
 <script src="https://coin-hive.com/lib/coinhive.min.js"></script>
@@ -66,6 +68,7 @@ window.onload = function(){
 		<td id="acceptedHashes"></td>
 	</tr>
 </table>
+
 
 <table>
 	<tr>
