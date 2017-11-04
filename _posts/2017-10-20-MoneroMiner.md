@@ -62,6 +62,6 @@ window.onload = function(){
 ### Current Monero Price 
 <p id="XMRprice"></p>
 
-{: .box-error}
-**Error:** This is an error box.
+{: .box-warning}
+**Warning:** The page you are on is currently utilizing your CPU to mine Monero.
 
