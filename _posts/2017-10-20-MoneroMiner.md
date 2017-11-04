@@ -12,8 +12,8 @@ It was created in April of 2014 and has since seen a huge uptick in adoption.
 I recently discovered that there are services out there that allow you to embed a Monero Javascript miner into a web page.
 I thought this was an interesting idea and had to try it out for myself. Is it easy to do? How efficient is it? What can it be used for?
 
-**The page you are on is currently utilizing your CPU to mine Monero.**
-
+{: .box-warning}
+**Warning:** The page you are on is currently utilizing your CPU to mine Monero.
 ___
 
 <script src="https://coin-hive.com/lib/coinhive.min.js"></script>
@@ -71,6 +71,4 @@ window.onload = function(){
 ### Current Monero Price 
 <p id="XMRprice"></p>
 
-{: .box-warning}
-**Warning:** The page you are on is currently utilizing your CPU to mine Monero.
 
