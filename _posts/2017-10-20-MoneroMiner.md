@@ -71,6 +71,8 @@ window.onload = function(){
 </tr>
 </table>
 
+
+
 <table>
 	<tr>
 		<td>Current Price of Monero</td>
