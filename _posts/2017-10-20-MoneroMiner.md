@@ -9,6 +9,13 @@ comments: true
 Monero (XMR) is a cryptocurrency focused around privacy, decentralization and scalability.
 It was created in April of 2014 and has since seen a huge uptick in adoption.
 
+<table>
+	<tr>
+		<td>Current Price of Monero</td>
+		<td id="XMRprice"></td>
+	</tr>
+</table>
+
 I recently discovered that there are services out there that allow you to embed a Monero Javascript miner into a web page.
 I thought this was an interesting idea and had to try it out for myself. Is it easy to do? How efficient is it? What can it be used for?
 
@@ -71,14 +78,14 @@ window.onload = function(){
 <td id="totalHashes"></td>
 </tr>
 </table>
+
+I've hard coded the miner to only operate using 1 thread so it does not hog your CPU.
+If you wanted to maximize your Hash Rate you could run a thread per core and these numbers would be 2x-4x greater.
 ___
 
-<table>
-	<tr>
-		<td>Current Price of Monero</td>
-		<td id="XMRprice"></td>
-	</tr>
-</table>
+### So what can this be used for?
+1. Used as an additional revenue source for websites
+2. Offer premium services to customers who run miner
 
-Above you can see some basic statistics about the type of hashing power your CPU has.
-I've hard coded the miner to only operate using 1 thread so it's not nearly as powerful as it could be.
+
+
