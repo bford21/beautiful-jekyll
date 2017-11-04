@@ -87,7 +87,6 @@ If you wanted to maximize your Hash Rate you could run a thread per core and the
 ### What can it be used for?
 1. Used as an additional revenue source for websites
 2. Offer premium services to customers who run miner
-3. 
 
 ### How efficient is it?
 There is definitely room for improvment when it comes to efficiency.
@@ -97,4 +96,4 @@ Mining in the browser is about 65% as efficient.
 The important thing to note here is that a single visitor may not produce much hashing power but if you have a couple hundred people hitting a page it adds up quick.
 
 ### Is it easy to do? 
-It is actually extremely easy to do, expect a new blog coming soon that explains how to implement one.
+It is actually extremely easy to do, expect a new blog coming soon that explains how to implement what you see on this page.
