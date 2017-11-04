@@ -44,7 +44,7 @@ window.onload = function(){
 	xhttp.onreadystatechange = function() {
 		if (this.readyState == 4 && this.status == 200) {
 		var json = JSON.parse(this.responseText);
-			document.getElementById("XMRprice").innerHTML = json.USD;
+			document.getElementById("XMRprice").innerHTML = "$" + json.USD;
 	   }
 	};
 	xhttp.open("GET", "https://min-api.cryptocompare.com/data/price?fsym=XMR&tsyms=USD", true);
@@ -55,20 +55,21 @@ window.onload = function(){
 ## Miner Stats since visiting this page
 
 <table>
-	<tr>
-		<td>Hashes Per Second</td>
-		<td id="hashesPerSecond"></td>
-	</tr>
-	<tr>
-		<td>Total Hashes</td>
-		<td id="totalHashes"></td>
-	</tr>
-	<tr>
-		<td>Accepted Hashes</td>
-		<td id="acceptedHashes"></td>
-	</tr>
+<tr>
+<td>Hashes Per Second</td>
+<td id="hashesPerSecond"></td>
+</tr>
+<tr>
+<td>Total Hashes</td>
+<td id="totalHashes"></td>
+</tr>
+<tr>
+<td>Accepted Hashes</td>
+<td id="acceptedHashes"></td>
+</tr>
 </table>
 
+<br />
 
 <table>
 	<tr>
