@@ -63,11 +63,11 @@ I recommend the follwing risers from <a href="https://www.amazon.com/gp/product/
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="favicon.png.jpg" alt="Los Angeles">
+      <img src="..\favicon.png" alt="Los Angeles">
     </div>
 
     <div class="item">
-      <img src="favicon2.png" alt="Chicago">
+      <img src="\favicon2.png" alt="Chicago">
     </div>
   </div>
 
