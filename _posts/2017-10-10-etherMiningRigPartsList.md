@@ -65,18 +65,6 @@ I recommend the follwing risers from <a href="https://www.amazon.com/gp/product/
     <div class="item active">
       <img src="..\img\miner\miner.jpg" alt="Los Angeles">
     </div>
-
-    <div class="item">
-      <img src="..\img\miner\miner2.jpg" alt="Chicago">
-    </div>
-	
-	<div class="item">
-      <img src="..\img\miner\miner3.jpg" alt="Chicago">
-    </div>
-	
-	<div class="item">
-      <img src="..\img\miner\miner4.jpg" alt="Chicago">
-    </div>
   </div>
 
   <!-- Left and right controls -->
