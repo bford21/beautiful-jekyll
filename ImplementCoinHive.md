@@ -18,7 +18,16 @@ The first thing you'll want to do is head to their site and create an account.
 After you've created an account add the following library inside the head of your html document.
 
 ```
-<script src="https://coin-hive.com/lib/coinhive.min.js"></script>
+ <script src="https://coin-hive.com/lib/coinhive.min.js"></script>
 ```
+
+~~~
+ <script src="https://coin-hive.com/lib/coinhive.min.js"></script>
+~~~
+
+{% highlight javascript linenos %}
+ <script src="https://coin-hive.com/lib/coinhive.min.js"></script>
+{% endhighlight %}
+
 
 
