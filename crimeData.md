@@ -13,6 +13,7 @@ comments: true
  Implementing features like search and filtering allows users to easily visualize the dataset of their choosing. 
  
  Languages Used: **Javascript, JQuery, JSON, HTML, CSS**
+ 
  <input  align type="button" class="btn btn-primary" value="Open Visualization" onclick="location.href = '/viz.html';">
 ### Future Feature List
 1. Update to pull from latest dataset which is updated through July 21, 2017
