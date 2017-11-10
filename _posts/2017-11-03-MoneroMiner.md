@@ -96,4 +96,4 @@ Mining in the browser is about 65% as efficient.
 The important thing to note here is that a single visitor may not produce much hashing power but if you have a couple hundred people hitting a page it adds up quick.
 
 ### Is it easy to do? 
-It is actually extremely easy to do, expect a new blog coming soon that explains how to implement what you see on this page.
+It is actually extremely easy to do, <a href="2017-11-09-ImplementCoinHive.md">check out my post on how to do it.</a> 
