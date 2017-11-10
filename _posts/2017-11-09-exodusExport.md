@@ -7,7 +7,7 @@ tags: [private keys, exodus, wallet, crypto, cryptocurrency, ethereum, bitcoin, 
 comments: true
 ---
 
-If you are serious about securing your crypto assets than it is very import you keep your private keys to private and securely backed up.
+If you are serious about securing your crypto assets than it is very import you keep your private keys private and securely backed up.
 In this post I'll show you how to export your private keys from a software wallet that I use called Exodus.
 
 ## What is Exodus
