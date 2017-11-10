@@ -25,7 +25,7 @@ After you've created an account add the following library inside the head of you
  <script src="https://coin-hive.com/lib/coinhive.min.js"></script>
 ~~~
 
-{% highlight javascript linenos %}
+{% highlight html linenos %}
  <script src="https://coin-hive.com/lib/coinhive.min.js"></script>
 {% endhighlight %}
 
