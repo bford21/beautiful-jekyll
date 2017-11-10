@@ -64,7 +64,7 @@ I recommend the follwing risers from <a href="https://www.amazon.com/gp/product/
     <div class="item active">
       <img src="..\img\miner\complete.jpg" alt="All Parts">
     </div>
-	<div class="item active">
+	<div class="item">
       <img src="..\img\miner\miner.jpg" alt="Assembled Miner">
     </div>
 	<div class="item active">
