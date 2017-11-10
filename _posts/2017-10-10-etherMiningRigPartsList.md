@@ -67,34 +67,34 @@ I recommend the follwing risers from <a href="https://www.amazon.com/gp/product/
 	<div class="item">
       <img src="..\img\miner\miner.jpg" alt="Assembled Miner">
     </div>
-	<div class="item active">
+	<div class="item">
       <img src="..\img\miner\adrus.jpg" alt="AMD Radeon RX580 Graphics Card">
     </div>
-	<div class="item active">
+	<div class="item">
       <img src="..\img\miner\cpu.jpg" alt="CPU">
     </div>
-	<div class="item active">
+	<div class="item">
       <img src="..\img\miner\dual.jpg" alt="AMD Raeon RX580 Graphics Card">
     </div>
-	<div class="item active">
+	<div class="item">
       <img src="..\img\miner\mobo.jpg" alt="Motherboard">
     </div>
-	<div class="item active">
+	<div class="item">
       <img src="..\img\miner\msiGaming.jpg" alt="AMD Raeon RX580 Graphics Card">
     </div>
-	<div class="item active">
+	<div class="item">
       <img src="..\img\miner\nitro.jpg" alt="AMD Raeon RX580 Graphics Card">
     </div>
-	<div class="item active">
+	<div class="item">
       <img src="..\img\miner\ps.jpg" alt="Power Supplies">
     </div>
-	<div class="item active">
+	<div class="item">
       <img src="..\img\miner\reddragon.jpg" alt="AMD Raeon RX580 Graphics Card">
     </div>
-	<div class="item active">
+	<div class="item">
       <img src="..\img\miner\riser.jpg" alt="PCI-E Risers">
     </div>
-	<div class="item active">
+	<div class="item">
       <img src="..\img\miner\strix.jpg" alt="AMD Raeon RX580 Graphics Card">
     </div>
   </div>
