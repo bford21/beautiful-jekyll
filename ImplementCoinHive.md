@@ -75,5 +75,8 @@ Lets go ahead and create those elements so you can visually see your miners live
 
 This will create a simple table so you can see some statistics about your miner.
 
-Thats how you embed a Monero Javascript miner into a webpage!
+If you refresh your page you should see the table being populated with your hashrate, total and accepted hashes. 
+If you look at your CoinHive dashboard you should also see some activity.
+Congrats you've just successfully embeded a Javascript Monero miner into your page!
+
 I reccommend reading CoinHive's <a href="https://coinhive.com/documentation">documentation</a> if you want to learn more about configuring your miner.
