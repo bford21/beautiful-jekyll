@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to use Coinhive to mine Monero
-image: /img/monero.png
+image: /img/coinhive.png
 bigimg: /img/moneroText.jpg
 tags: [monero, XMR, crypto, currency, cryptocurrency, mine, miner, mining, graphics cards, bitcoin]
 comments: true
