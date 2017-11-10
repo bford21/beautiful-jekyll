@@ -108,7 +108,7 @@ I recommend the follwing risers from <a href="https://www.amazon.com/gp/product/
   </a>
 </div>
 -->
-
+<!--
 <div class="container">
   <h2>Carousel Example</h2>
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -159,3 +159,4 @@ I recommend the follwing risers from <a href="https://www.amazon.com/gp/product/
     </a>
   </div>
 </div>
+-->
