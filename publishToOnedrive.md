@@ -11,4 +11,4 @@ Although this project is incomplete at the moment, this was an excellent learnin
 
 Languages Used: **Java**
 
-<p align="center"><a href="https://github.com/bford21/publish-over-onedrive-plugin">View on Github</a></p>
+<input  align type="button" class="btn btn-primary" value="View on Github" onclick="location.href = 'https://github.com/bford21/publish-over-onedrive-plugin';">
