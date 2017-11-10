@@ -23,11 +23,12 @@ After you've created an account add the following library inside the head of you
 
 When the page loads this script will load the miner so we can use it.
 
-The next step is to start mining. To do so add the following bit of code somewhere inside the body of the page.
+The next step is to start mining.
+To do so add the following bit of code somewhere inside the body of the page.
 
-{% highlight html linenos %}
+{% highlight javascript linenos %}
 <script>
-var miner = new CoinHive.Anonymous('INSERT YOUR CODE');
+var miner = new CoinHive.Anonymous('INSERT YOUR OWN SITE KEY');
 miner.start();
 
 // Listen on events
@@ -48,3 +49,26 @@ setInterval(function() {
 </script>
 {% endhighlight %}
 
+On line 2 make sure to insert your own site key.
+This key can be found under "Settings > Sites & API Keys" within CoinHive. 
+This key links the work done by the miner to your account so you get credited.
+
+Lines 16, 17 & 18 print your Hashes Per Second, Total Hashes and Accepted Hashes to an HTML element with the respective names.
+Lets go ahead and create those elements so you can visually see your miners live statistics.
+
+{% highlight html linenos %}
+<table>
+<tr>
+<td>Hashes Per Second</td>
+<td id="hashesPerSecond"></td>
+</tr>
+<tr>
+<td>Accepted Hashes</td>
+<td id="acceptedHashes"></td>
+</tr>
+<tr>
+<td>Total Hashes</td>
+<td id="totalHashes"></td>
+</tr>
+</table>
+{% endhighlight %}
