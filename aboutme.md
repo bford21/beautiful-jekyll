@@ -26,23 +26,23 @@ When I'm not programming I like to get outside and explore the great city of Bos
 
 ![Xamarin Logo](img/xamarin.png) **Xamarin Inc**
 
-**DevOps Intern:** Managed and maintained build machines and continious integration pipeline. Wrote a Jenkins plugin to upload build artifacts to OneDrive.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**DevOps Intern:** Managed and maintained build machines and continious integration pipeline. Wrote a Jenkins plugin to upload build artifacts to OneDrive.
 
 ![MFS Logo](img/mfs.png) **MFS Investment Management**
 
-**QA Automation Intern:** Developed automated tests using headless Javascript testing platform that met acceptance criteria.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**QA Automation Intern:** Developed automated tests using headless Javascript testing platform that met acceptance criteria.
 
 ![Percussion Logo](img/percussion.png) **Percussion Software**
 
-**Software Engineering Intern:** Wrote and maintained nightly automated tests. First introduction to agile and test driven development process.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Software Engineering Intern:** Wrote and maintained nightly automated tests. First introduction to agile and test driven development process.
 
 ![Wentworth Logo](img/wit2.jpg) **Wentworth Institute of Technology**
 
-**CS Teachers Assistant:** Crafted a basic C++/networking boot camp aimed at introducing incoming students to basic programming concepts.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**CS Teachers Assistant:** Crafted a basic C++/networking boot camp aimed at introducing incoming students to basic programming concepts.
 
 ![Bluevase Logo](img/bluevase.jpg) **Blue Vase Marketing**
 
-**IT Department Intern:** Developed web based application in Javascript. Diagnosed PC and server issues.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**IT Department Intern:** Developed web based application in Javascript. Diagnosed PC and server issues.
 
 <br />
 ## Skills
