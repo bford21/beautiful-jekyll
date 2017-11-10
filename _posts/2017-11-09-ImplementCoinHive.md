@@ -3,11 +3,11 @@ layout: post
 title: How to use Coinhive to mine Monero
 image: /img/coinhive.png
 bigimg: /img/header.jpg
-tags: [monero, XMR, crypto, currency, cryptocurrency, mine, miner, mining, graphics cards, bitcoin]
+tags: [monero, XMR, crypto, currency, cryptocurrency, mine, miner, mining, graphics cards, bitcoin, coinhive, javascript]
 comments: true
 ---
 
-In my last post I talked about discoving services that allow you to embed Monero javascript miners into web pages.
+In my last post I talked about discovering services that allow you to embed Monero javascript miners into web pages.
 Today I'd like to talk about one specifically and walk you through how to embed the miner on your own page.
 
 The service we'll be using is <a href="https://coinhive.com">CoinHive.com</a>.
