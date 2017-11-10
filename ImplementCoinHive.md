@@ -26,7 +26,7 @@ When the page loads this script will load the miner so we can use it.
 The next step is to start mining.
 To do so add the following bit of code somewhere inside the body of the page.
 
-{% highlight javascript linenos %}
+{% highlight html linenos %}
 <script>
 var miner = new CoinHive.Anonymous('INSERT YOUR OWN SITE KEY');
 miner.start();
@@ -58,17 +58,22 @@ Lets go ahead and create those elements so you can visually see your miners live
 
 {% highlight html linenos %}
 <table>
-<tr>
-<td>Hashes Per Second</td>
-<td id="hashesPerSecond"></td>
-</tr>
-<tr>
-<td>Accepted Hashes</td>
-<td id="acceptedHashes"></td>
-</tr>
-<tr>
-<td>Total Hashes</td>
-<td id="totalHashes"></td>
-</tr>
+	<tr>
+		<td>Hashes Per Second</td>
+		<td id="hashesPerSecond"></td>
+	</tr>
+	<tr>
+		<td>Accepted Hashes</td>
+		<td id="acceptedHashes"></td>
+	</tr>
+	<tr>
+		<td>Total Hashes</td>
+		<td id="totalHashes"></td>
+	</tr>
 </table>
 {% endhighlight %}
+
+This will create a simple table so you can see some statistics about your miner.
+
+Thats how you embed a Monero Javascript miner into a webpage!
+I reccommend reading CoinHive's <a href="https://coinhive.com/documentation">documentation</a> if you want to learn more about configuring your miner.
