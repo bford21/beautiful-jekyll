@@ -74,7 +74,7 @@ I recommend the follwing risers from <a href="https://www.amazon.com/gp/product/
       <img src="..\img\miner\cpu.jpg" alt="CPU">
     </div>
 	<div class="item">
-      <img src="..\img\miner\dual.jpg" alt="AMD Raeon RX580 Graphics Card">
+      <img src="..\img\miner\Dual.jpg" alt="AMD Raeon RX580 Graphics Card">
     </div>
 	<div class="item">
       <img src="..\img\miner\mobo.jpg" alt="Motherboard">
@@ -89,7 +89,7 @@ I recommend the follwing risers from <a href="https://www.amazon.com/gp/product/
       <img src="..\img\miner\ps.jpg" alt="Power Supplies">
     </div>
 	<div class="item">
-      <img src="..\img\miner\redDragon.jpg" alt="AMD Raeon RX580 Graphics Card">
+      <img src="..\img\miner\reddragon.jpg" alt="AMD Raeon RX580 Graphics Card">
     </div>
 	<div class="item">
       <img src="..\img\miner\riser.jpg" alt="PCI-E Risers">
