@@ -52,7 +52,7 @@ I recommend the follwing risers from <a href="https://www.amazon.com/gp/product/
 
 **Note:** Keyboard, mouse and monitor required for initial setup. You can then run your miner without them, using SSH to edit and make changes.
 
-<!-- <div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -76,4 +76,3 @@ I recommend the follwing risers from <a href="https://www.amazon.com/gp/product/
     <span class="sr-only">Next</span>
   </a>
 </div>
--->
