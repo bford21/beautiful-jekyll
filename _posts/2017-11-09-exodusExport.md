@@ -28,6 +28,7 @@ Each asset your holding has it's own private key so make sure to export each one
 I also reccommend exporting the address for safe keeping as well.
 
 ## Move offline and cleanup
+
 Once you've exported all your keys I reccomend transfering them to a flash drive or two and then physically securing the flash drive where no one will find it.
 Make sure to delete your private keys from your computer afterwards. 
 
