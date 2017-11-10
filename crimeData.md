@@ -13,13 +13,9 @@ comments: true
  Implementing features like search and filtering allows users to easily visualize the dataset of their choosing. 
  
  Languages Used: **Javascript, JQuery, JSON, HTML, CSS**
- 
- <br />
- <p align="center"><a href="/viz.html">Open Visualization</a></p>
 
- <input type="button" class="btn btn-info" value="Open Visualization" onclick="location.href = '/viz.html';">
+<input align="center" align type="button" class="btn btn-info" value="Open Visualization" onclick="location.href = '/viz.html';">
  
-<br />
 ### Future Feature List
 1. Update to pull from latest dataset which is updated through July 21, 2017
 2. Add additional filters (crime, weapon, street)
