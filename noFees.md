@@ -15,4 +15,4 @@ Today I want to show you a trick to buying Bitcoin without having to pay any fee
 ### Exchange
 
 The exchange we'll be purchasing from is called <a href="https://www.gdax.com">GDAX.com</a>.
-This is company that owns GDAX is also the same company that owns Coinbase
+The company that owns GDAX is also the same company that owns <a href="https://www.coinbase.com/join/5937469e2e23290201b06a76">Coinbase.</a>
