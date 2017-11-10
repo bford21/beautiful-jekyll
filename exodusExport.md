@@ -23,7 +23,7 @@ To export your private keys login to Exodus and bring up the developer toolbar b
 
 Navigate to "Exodus > Developer > Assets" like the image below.
 
-<img src="img\exodusMenu.PNG" alt="Exodus Developer Menu">
+<img src="../img/exodusMenu.PNG" alt="Exodus Developer Menu">
 
 Each asset your holding has it's own private key so make sure to export each one. 
 I also reccommend exporting the address for safe keeping as well.
