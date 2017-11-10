@@ -22,27 +22,27 @@ When I'm not programming I like to get outside and explore the great city of Bos
 
 ![Citrix Logo](img/citrix.png) **Citrix**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Software Engineer:** C++/C# code base. Bug fixes, feature development, cloud integrations, devops.
+**Software Engineer:** C++/C# code base. Bug fixes, feature development, cloud integrations, devops.
 
 ![Xamarin Logo](img/xamarin.png) **Xamarin Inc**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**DevOps Intern:** Managed and maintained build machines and continious integration pipeline. Wrote a Jenkins plugin to upload build artifacts to OneDrive.
+**DevOps Intern:** Managed and maintained build machines and continious integration pipeline. Wrote a Jenkins plugin to upload build artifacts to OneDrive.
 
 ![MFS Logo](img/mfs.png) **MFS Investment Management**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**QA Automation Intern:** Developed automated tests using headless Javascript testing platform that met acceptance criteria.
+**QA Automation Intern:** Developed automated tests using headless Javascript testing platform that met acceptance criteria.
 
 ![Percussion Logo](img/percussion.png) **Percussion Software**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Software Engineering Intern:** Wrote and maintained nightly automated tests. First introduction to agile and test driven development process.
+**Software Engineering Intern:** Wrote and maintained nightly automated tests. First introduction to agile and test driven development process.
 
 ![Wentworth Logo](img/wit2.jpg) **Wentworth Institute of Technology**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**CS Teachers Assistant:** Crafted a basic C++/networking boot camp aimed at introducing incoming students to basic programming concepts.
+**CS Teachers Assistant:** Crafted a basic C++/networking boot camp aimed at introducing incoming students to basic programming concepts.
 
 ![Bluevase Logo](img/bluevase.jpg) **Blue Vase Marketing**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**IT Department Intern:** Developed web based application in Javascript. Diagnosed PC and server issues.
+**IT Department Intern:** Developed web based application in Javascript. Diagnosed PC and server issues.
 
 <br />
 ## Skills
