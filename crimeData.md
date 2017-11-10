@@ -17,7 +17,7 @@ comments: true
  <br />
  <p align="center"><a href="/viz.html">Open Visualization</a></p>
 
- <input type="button" class="btn btn-info" value="Input Button" onclick="location.href = '/viz.html';">
+ <input type="button" class="btn btn-info" value="Open Visualization" onclick="location.href = '/viz.html';">
  
 <br />
 ### Future Feature List
