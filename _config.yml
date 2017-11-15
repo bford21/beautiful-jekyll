@@ -54,7 +54,7 @@ avatar: "/img/avatar-icon.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Brian Ford
+  name: BrianFord.Tech
   email: "briguy22811@gmail.com"
   facebook: yourname  # eg. daattali
   github: bford21    # eg. daattali
@@ -103,7 +103,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "bford.net"
+url-pretty: "BrianFord.Tech"
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus: "bford"
