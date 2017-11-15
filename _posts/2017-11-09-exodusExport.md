@@ -3,6 +3,7 @@ layout: post
 title: Exporting your private keys from Exodus
 subtitle: Securing your crypto assets
 image: /img/exodus.jpg
+share-img: http://brianford.tech/img/exodus.jpg
 tags: [private keys, exodus, wallet, crypto, cryptocurrency, ethereum, bitcoin, litecoin]
 comments: true
 ---

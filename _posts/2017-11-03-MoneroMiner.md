@@ -3,6 +3,7 @@ layout: post
 title: Mining crypto with a web browser
 subtitle: Via Javascript
 image: /img/monero.png
+share-img: http://brianford.tech/img/monero.png
 tags: [monero, XMR, crypto, currency, cryptocurrency, mine, miner, mining, graphics cards, bitcoin]
 comments: true
 ---

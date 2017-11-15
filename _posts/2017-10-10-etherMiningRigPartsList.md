@@ -2,6 +2,7 @@
 layout: post
 title: Ethereum Mining Rig Parts List
 image: /img/etherLogo2.png
+share-img: http://brianford.tech/img/etherLogo2.png
 bigimg: /img/miner/complete.jpg
 tags: [ethereum, ether, crypto, currency, cryptocurrency, mine, miner, mining, graphics cards, bitcoin]
 comments: true
