@@ -30,7 +30,7 @@ For this build I bought an <a href="https://www.amazon.com/gp/product/B00EF1G9DW
 					
 ### Motherboard
 You need a motherboard that supports your CPU's socket type, chipset, and has plenty of PCLe slots. I recommend a motherboard specifically made for crypto mining. 
-I went with <a href="https://www.amazon.com/gp/product/B00EF1G9DW/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1">ASRock H81 Pro BTC</a> which supports a 1150 CPU socket type and has 6 PCLe slots.
+I went with <a href="https://www.amazon.com/gp/product/B01M5FQZYE/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1">ASRock H81 Pro BTC</a> which supports a 1150 CPU socket type and has 6 PCLe slots.
 
 ### RAM
 4Gb of RAM is sufficient although RAM is cheap and you could benefit from having 8Gb. Make sure your RAM type (DDR3, DDR4) is supported by your motherboard.
