@@ -56,9 +56,26 @@ Next we'll add what's called a modifier.
 A modifier can be used to change the body of a function.
 This is where we will add the logic to check if the sender is equal to the owner.
 
-{% highlight python linenos %}
+{% highlight php linenos %}
 modifier onlyOwner{
     require(msg.sender == owner);
     _;
 }
 {% endhighlight %}
+
+Now we have to write two functions. One to return the balance and one to set the balance.
+
+{% highlight javascript linenos %}
+function GetBalance() public constant returns(uint){
+    return balance;
+}
+
+function SetBalance(uint NewBalance) public returns (uint){
+    balance = NewBalance;
+    return balance;
+}
+{% endhighlight %}
+
+
+
+
