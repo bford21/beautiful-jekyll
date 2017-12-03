@@ -47,7 +47,7 @@ Our constructor will set the owner of the contract as well as the initial balanc
 
 {% highlight python linenos %}
 function AccountBalance(uint NewBalance) public{
-	balance = NewBalance;
-	owner = msg.sender;
+    balance = NewBalance;
+    owner = msg.sender;
 }
 {% endhighlight %}	
