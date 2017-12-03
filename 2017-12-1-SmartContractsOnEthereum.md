@@ -34,7 +34,7 @@ The first thing we need to do is tell the compiler which version of Solidity we 
 
 The next thing we need to do is create a new contract and define two variables, one to hold the balance and another for the address of the owner of the contract.
 
-{% highlight python linenos %}
+{% highlight java linenos %}
 contract AccountBalance{
     uint balance;
     address owner;
@@ -56,7 +56,7 @@ Next we'll add what's called a modifier.
 A modifier can be used to change the body of a function.
 This is where we will add the logic to check if the sender is equal to the owner.
 
-{% highlight solidity linenos %}
+{% highlight c++ linenos %}
 modifier onlyOwner{
     require(msg.sender == owner);
     _;
