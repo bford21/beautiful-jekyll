@@ -79,6 +79,8 @@ These are both public function and can be accessed by the user.
 
 ## All together
 
+<br />
+
 {% highlight javascript linenos %}
 pragma solidity ^0.4.0;
 
@@ -105,5 +107,7 @@ contract AccountBalance{
     }
 }
 {% endhighlight %}
+
+<br />
 
 ## Compile and create
