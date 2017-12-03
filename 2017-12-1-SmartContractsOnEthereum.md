@@ -16,7 +16,7 @@ It is a statically typed language that supports many programming features that a
 
 To begin programming in Solidity you need an IDE (Integrated development environment) that supports it.
 For rapid development and testing I recommend <a href="https://remix.ethereum.org">Remix</a>. 
-<a href="https://remix.ethereum.org">Remix</a> is an in browser IDE made by the Ethereum team and is perfect for getting started quickly and easily. 
+Remix is an in browser IDE made by the Ethereum team and is perfect for getting started quickly and easily. 
 
 Today the smart contract we will be writing will be very simple and allow you to do two things.
 
@@ -27,8 +27,8 @@ Today the smart contract we will be writing will be very simple and allow you to
 
 The first thing we need to do is tell the compiler which version of Solidity we want to compile against.
 
-{% highlight html linenos %}
-    pragma solidity ^0.4.0;
+{% highlight python linenos %}
+ pragma solidity ^0.4.0;
 {% endhighlight %}
 
 
