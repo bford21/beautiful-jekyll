@@ -23,6 +23,7 @@ Today the smart contract we will be writing will be very simple and allow you to
 1. Owner of contract can get an account balance.
 2. Owner of contract can set an account balance.
 
+
 ## Let's write some code
 
 The first thing we need to do is tell the compiler which version of Solidity we want to compile against.
@@ -47,6 +48,6 @@ Our constructor will set the owner of the contract as well as the initial balanc
 {% highlight python linenos %}
 function AccountBalance(uint NewBalance) public{
 	balance = NewBalance;
-    owner = msg.sender;
+	owner = msg.sender;
 }
 {% endhighlight %}	
