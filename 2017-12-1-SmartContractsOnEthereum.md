@@ -34,7 +34,7 @@ The first thing we need to do is tell the compiler which version of Solidity we 
 
 The next thing we need to do is create a new contract and define two variables, one to hold the balance and another for the address of the owner of the contract.
 
-{% highlight java linenos %}
+{% highlight html linenos %}
 contract AccountBalance{
     uint balance;
     address owner;
