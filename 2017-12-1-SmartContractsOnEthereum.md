@@ -31,4 +31,11 @@ The first thing we need to do is tell the compiler which version of Solidity we 
  pragma solidity ^0.4.0;
 {% endhighlight %}
 
+The next thing we need to do is create a new contract and define two variables, one to hold the balance and another for the address of the owner of the contract.
 
+{% highlight python linenos %}
+contract AccountBalance{
+    uint balance;
+    address owner;
+}
+{% endhighlight %}
