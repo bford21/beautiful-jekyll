@@ -20,8 +20,8 @@ Remix is an in browser IDE made by the Ethereum team and is perfect for getting 
 
 Today the smart contract we will be writing will be very simple and allow you to do two things.
 
-1. Owner of contract can get an account balance.
-2. Owner of contract can set an account balance.
+1. Anyone can get the account balance.
+2. Owner of contract can set the account balance.
 
 
 ## Let's write some code
@@ -70,12 +70,13 @@ function GetBalance() public constant returns(uint){
     return balance;
 }
 
-function SetBalance(uint NewBalance) public{
+function SetBalance(uint NewBalance) onlyOwner public{
     balance = NewBalance;
 }
 {% endhighlight %}
 
-These are both public function and can be accessed by the user. 
+These are both public function and can both be seen by the user.
+However the "SetBalance" function can only be accessed by the owner because we've added the onlyOwner modifier. 
 
 ## All together
 <p></p>
@@ -100,12 +101,39 @@ contract AccountBalance{
         return balance;
     }
     
-    function SetBalance(uint NewBalance) public{
+    function SetBalance(uint NewBalance) onlyOwner public{
         balance = NewBalance;
     }
 }
 {% endhighlight %}
-
-<br />
-
+<p></p>
 ## Compile and create
+
+Now it's time to compile our code. If your using Remix, click on the compile menu on the right hand side.
+Check the box that says "Auto compile".
+
+Once your code is compiled it's time to create the contract!
+
+<img src="../img/remixUI.png" alt="Remix compiler menu" />
+
+In Remix, from the run tab and in the first dropdown menu select "Javascript VM".
+This tells Remix to target the Javascript VM running on the page in the browser as the environment. 
+This means that you are not actually deploying this contract on a blockchain.
+This Javascript VM is simply a sandbox and will not be saved if you refresh the page.
+
+Change the address to an address you'd like to be the owner of the contract, and you can leave "Gas limit", "Gas Price" and "Value" to the defaults.
+
+In the box below, select your newly created contract in the drop down.
+You can leave the "At Address" blank and then in the "Create" box input the initial balance.
+
+When you are ready click "Create" and your newly created contract will appear below. 
+
+<img src="../img/deployedContract.png" alt="Newly created smart contract" />
+
+Notice the value returned by "GetBalance" is the value we set when we created it.
+
+Play around with setting and getting new balance values. 
+Also change the account from the drop down and try to set the balance.
+
+If you've followed me this far congrats you've just succesfully wrote and tested your very own smart contract!
+
