@@ -45,9 +45,20 @@ Now this contract needs a constructor. A constructor is a function that is calle
 
 Our constructor will set the owner of the contract as well as the initial balance.
 
-{% highlight python linenos %}
+{% highlight javascript linenos %}
 function AccountBalance(uint NewBalance) public{
     balance = NewBalance;
     owner = msg.sender;
 }
-{% endhighlight %}	
+{% endhighlight %}
+
+Next we'll add what's called a modifier. 
+A modifier can be used to change the body of a function.
+This is where we will add the logic to check if the sender is equal to the owner.
+
+{% highlight solidity linenos %}
+modifier onlyOwner{
+    require(msg.sender == owner);
+    _;
+}
+{% endhighlight %}
