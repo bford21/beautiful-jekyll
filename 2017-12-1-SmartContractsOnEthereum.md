@@ -56,7 +56,7 @@ Next we'll add what's called a modifier.
 A modifier can be used to change the body of a function.
 This is where we will add the logic to check if the sender is equal to the owner.
 
-{% highlight javscript linenos %}
+{% highlight python linenos %}
 modifier onlyOwner{
     require(msg.sender == owner);
     _;
