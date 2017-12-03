@@ -125,13 +125,11 @@ Change the address to an address you'd like to be the owner of the contract, and
 
 In the box below, select your newly created contract in the drop down.
 You can leave the "At Address" blank and then in the "Create" box input the initial balance.
-
 When you are ready click "Create" and your newly created contract will appear below. 
 
 <img src="/img/deployedContract.PNG" alt="Newly created smart contract" />
 
 Notice the value returned by "GetBalance" is the value we set when we created it.
-
 Play around with setting and getting new balance values. 
 Also change the account from the drop down and try to set the balance.
 
