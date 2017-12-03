@@ -114,7 +114,7 @@ Check the box that says "Auto compile".
 
 Once your code is compiled it's time to create the contract!
 
-<img src="/img/remixUI.PNG" alt="Remix compiler menu" />
+<img src="../img/remixUI.PNG" alt="Remix compiler menu" />
 
 In Remix, from the run tab and in the first dropdown menu select "Javascript VM".
 This tells Remix to target the Javascript VM running on the page in the browser as the environment. 
@@ -127,7 +127,7 @@ In the box below, select your newly created contract in the drop down.
 You can leave the "At Address" blank and then in the "Create" box input the initial balance.
 When you are ready click "Create" and your newly created contract will appear below. 
 
-<img src="/img/deployedContract.PNG" alt="Newly created smart contract" />
+<img src="../img/deployedContract.PNG" alt="Newly created smart contract" />
 
 Notice the value returned by "GetBalance" is the value we set when we created it.
 Play around with setting and getting new balance values. 
