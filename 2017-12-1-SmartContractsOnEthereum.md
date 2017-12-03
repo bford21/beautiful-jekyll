@@ -70,12 +70,40 @@ function GetBalance() public constant returns(uint){
     return balance;
 }
 
-function SetBalance(uint NewBalance) public returns (uint){
+function SetBalance(uint NewBalance) public{
     balance = NewBalance;
-    return balance;
 }
 {% endhighlight %}
 
+These are both public function and can be accessed by the user. 
 
+## All together
 
+{% highlight javascript linenos %}
+pragma solidity ^0.4.0;
 
+contract AccountBalance{
+    uint balance;
+    address owner;
+    
+    function AccountBalance(uint NewBalance) public{
+        balance = NewBalance;
+        owner = msg.sender;
+    }
+    
+    modifier onlyOwner{
+        require(msg.sender == owner);
+        _;
+    }
+    
+    function GetBalance() public constant returns(uint){
+        return balance;
+    }
+    
+    function SetBalance(uint NewBalance) public{
+        balance = NewBalance;
+    }
+}
+{% endhighlight %}
+
+## Compile and create
