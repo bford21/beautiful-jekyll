@@ -78,7 +78,7 @@ function SetBalance(uint NewBalance) public{
 These are both public function and can be accessed by the user. 
 
 ## All together
-<br />
+<p></p>
 {% highlight javascript linenos %}
 pragma solidity ^0.4.0;
 
