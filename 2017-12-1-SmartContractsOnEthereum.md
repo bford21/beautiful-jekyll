@@ -39,3 +39,14 @@ contract AccountBalance{
     address owner;
 }
 {% endhighlight %}
+
+Now this contract needs a constructor. A constructor is a function that is called only when the contract is first created. 
+
+Our constructor will set the owner of the contract as well as the initial balance.
+
+{% highlight python linenos %}
+function AccountBalance(uint NewBalance) public{
+	balance = NewBalance;
+    owner = msg.sender;
+}
+{% endhighlight %}	
