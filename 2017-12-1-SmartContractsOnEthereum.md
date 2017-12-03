@@ -20,10 +20,10 @@ Remix is an in browser IDE made by the Ethereum team and is perfect for getting 
 
 Today the smart contract we will be writing will be very simple and allow you to do two things.
 
-1. Get an account balance.
-2. Set an account balance.
+1. Owner of contract can get an account balance.
+2. Owner of contract can set an account balance.
 
-## Let's Write Some Code
+## Let's write some code
 
 The first thing we need to do is tell the compiler which version of Solidity we want to compile against.
 
