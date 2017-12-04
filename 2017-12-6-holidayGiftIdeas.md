@@ -16,6 +16,7 @@ Here are a list of top ten gift ideas for someone interested in cryptocurrencies
 <img src="/img/GiftIdeasBlog/ledger.PNG" alt="Ledger Nano S Wallet" >
 
 2. <a href="https://trezor.io/">Trezor</a>
+<p></p>
 <img src="/img/GiftIdeasBlog/trezor.PNG" alt="Trezor Wallet" >
 
 3. <a href="http://www.cafepress.com/mf/110365679/ethereum-landscape_mugs?productId=71926945">Ethereum Mug</a>
