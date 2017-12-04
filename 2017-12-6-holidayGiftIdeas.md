@@ -20,7 +20,7 @@ Here are a list of top ten gift ideas for someone interested in cryptocurrencies
 <img src="/img/GiftIdeasBlog/trezor.PNG" alt="Trezor Wallet" >
 
 3. <a href="http://www.cafepress.com/mf/110365679/ethereum-landscape_mugs?productId=71926945">Ethereum Mug</a>
-<img src="/img/GiftIdeasBlog/etherMug.PNG" alt="Ethereum Coffee Mug" >
+ <img src="/img/GiftIdeasBlog/etherMug.PNG" alt="Ethereum Coffee Mug" >
 
 4. <a href="https://www.etsy.com/nz/listing/192778694/cufflink-bitcoin-custom-personalized?awc=10781_1512341729_86fb8c49ce8de37f8d594500fbd91a35&zanpid=10781_1512341729_86fb8c49ce8de37f8d594500fbd91a35&utm_medium=affiliate&utm_source=affiliate_window&utm_campaign=au_buyer&utm_content=349135">Custom Bitcoin cufflinks</a>
 <img src="/img/GiftIdeasBlog/btcCufflinks.jpg" alt="Custom Bitcoin Cufflinks" >
