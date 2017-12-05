@@ -13,6 +13,9 @@ Here are a list of top ten gift ideas for someone interested in cryptocurrencies
 
 
 1. <a href="https://www.ledgerwallet.com/products/ledger-nano-s">Ledger Nano S</a>
+
+The Ledger Nano S is one of the more popular hardware wallets available today.
+
 <img src="/img/GiftIdeasBlog/ledger.PNG" alt="Ledger Nano S Wallet" >
 
 2. <a href="https://trezor.io/">Trezor</a>
