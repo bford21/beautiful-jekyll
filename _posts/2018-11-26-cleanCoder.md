@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: The Clean Coder
 subtitle: My thoughts on the book by Robert Martin
