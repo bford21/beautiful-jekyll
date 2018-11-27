@@ -8,9 +8,9 @@ tags: [clean coder, clean, coder, professional, programming, guide, book, review
 comments: true
 ---
 
-Wow, it's been over a year since I posted a new blog. Where's the time gone?
+Wow, it's been almost a year since I posted a new blog. Where's the time gone? I recently started a new position as a Software Engineer at a startup in Boston. On my first day I walked into the team room and saw my desk setup nice and neat. Front and center was a book titled "The Clean Coder - A Code of Conduct for Professional Programmers".
 
-I recently started a new position as a Software Engineer at a startup in Boston. On my first day I walked into the team room and saw my desk setup nice and neat. Front and center was a book titled "The Clean Coder - A Code of Conduct for Professional Programmers".
+<img src="../img/cleanCoderBookCover.jpg" alt="The Clean Coder Book Cover">
 
 This book challenged how I thought about my job as a professional programmer and I had quite a few "ah-ha" moments. Here are a few of my key takeaways. 
 
