@@ -11,6 +11,8 @@ comments: true
 As a Software Engineer I'm constantly thinking about efficiency. What's the time complexity of this algorithm, can this be parallelized, where is the bottleneck?
 So when I setup reoccurring Bitcoin buys on Coinbase it bothered me quite a bit that they took a 4% fee and my newly purchased Bitcoin wasn't available for withdrawal for 3-5 business days.
 
+Github repo: <https://github.com/bford21/coinbase-api-scripts>
+
 ## Problem
 Coinbase reoccurring buys incur a 4% fee. This compounded over time can be a significant amount of BTC. Your funds are also not available for withdrawal for 3-5 business days.
 
