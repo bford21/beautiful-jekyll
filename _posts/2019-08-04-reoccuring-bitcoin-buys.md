@@ -21,6 +21,7 @@ Use the Coinbase API to place limit orders that only incur a 0.15% fee. Leverage
 1. Your Coinbase Pro account must be preloaded with enough USD to place the trades
 2. Greater chance of trades not going through
 
+<br />
 
 ## Setup
 
@@ -56,6 +57,8 @@ CB_SECRET_KEY:
 CB_PASSPHRASE:
 ```
 
+<br />
+
 ## Run
 
 ### Windows
@@ -66,12 +69,17 @@ Use the native Windows task scheduler. Create a bsic task and point it at `run.b
 
 On Mac OS & Linux leverage crontab to run `run.sh` at your specified interval. (<https://en.wikipedia.org/wiki/Cron>)
 
+<br />
+
 ## How it works
 
 The first thing the script checks for are the current fee rates for placing both limit and market order via the Coinbase Pro API. 
 Placing a limit order is almost always cheaper so a limit order will be constructed based on the dollar amount specified in your `config.yml`
 Limit orders require a minimum BTC size of 0.002 so if your order is below this value a market order will be placed and will incur a slightly higher fee.
 
+<br />
+
 ## Future features
 
-1. Multi coin support\
+1. Multi coin support
+<br />
