@@ -50,12 +50,11 @@ Use the Coinbase API to place limit orders that only incur a 0.15% fee. Leverage
 `config.yml` is located in the root directory and can be used to set the amount of btc to buy as well as your Coinbase Pro credentials
 
 `
-dollar_amount_to_buy: 50.0  
-CB_API_KEY:  
-CB_SECRET_KEY:  
-CB_PASSPHRASE:  
+dollar_amount_to_buy: 50.0\  
+CB_API_KEY:\
+CB_SECRET_KEY:\
+CB_PASSPHRASE:\
 `
-
 
 ## Run
 
@@ -67,7 +66,6 @@ Use the native Windows task scheduler. Create a bsic task and point it at `run.b
 
 On Mac OS & Linux leverage crontab to run `run.sh` at your specified interval. (<https://en.wikipedia.org/wiki/Cron>)
 
-
 ## How it works
 
 The first thing the script checks for are the current fee rates for placing both limit and market order via the Coinbase Pro API. 
@@ -76,5 +74,4 @@ Limit orders require a minimum BTC size of 0.002 so if your order is below this 
 
 ## Future features
 
-1. Multi coin support
-
+1. Multi coin support\
