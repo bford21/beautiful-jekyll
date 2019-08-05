@@ -49,12 +49,12 @@ Use the Coinbase API to place limit orders that only incur a 0.15% fee. Leverage
 
 `config.yml` is located in the root directory and can be used to set the amount of btc to buy as well as your Coinbase Pro credentials
 
-`
-dollar_amount_to_buy: 50.0&nbsp;
-CB_API_KEY:&nbsp;
-CB_SECRET_KEY:&nbsp;
-CB_PASSPHRASE:&nbsp;
-`
+```
+dollar_amount_to_buy: 50.0
+CB_API_KEY:
+CB_SECRET_KEY:
+CB_PASSPHRASE:
+```
 
 ## Run
 
