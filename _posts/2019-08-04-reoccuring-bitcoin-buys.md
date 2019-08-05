@@ -31,10 +31,15 @@ Use the Coinbase API to place limit orders that only incur a 0.15% fee. Leverage
 - Create a Coinbase Pro account and generate an api key
 - Link a bank account and deposit USD into coinbase
 - Python `version 2.7`
+- pip installed
 
 ### Clone repo
 
 `git clone https://github.com/bford21/coinbase-api-scripts.git`
+
+### Install requirements
+
+`pip install -r requirements.txt`
 
 ### Create environment variables
 
