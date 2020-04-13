@@ -20,6 +20,10 @@ I was first introduced to programming when I was 13. I learned how to write Java
 <br />
 ## Experience
 
+![Fincura Logo](img/fincura.png) **Fincura**
+
+**Software Engineer:** Architected and designed solutions using an Angular/Python stack.
+
 ![Citrix Logo](img/citrix.png) **Citrix**
 
 **Software Engineer:** C++/C# code base. Bug fixes, feature development, cloud integrations, devops.
@@ -46,7 +50,7 @@ I was first introduced to programming when I was 13. I learned how to write Java
 
 <br />
 ## Skills
-<i class="fa fa-code" /> **Programming languages:** Java, C++, C#, Python, Ruby, Javascript, PHP, Powershell, GO
+<i class="fa fa-code" /> **Programming languages:** Javascript, Python, Java, C++, C#, Ruby, Powershell, GO
 
 <i class="fa fa-cubes" /> **Platforms:** Windows, Linux, MacOS
 
