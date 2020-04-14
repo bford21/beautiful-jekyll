@@ -35,4 +35,6 @@ Ultimately I chose to use Infura's API just to get things working.
 However, I'd love to use web3.js or host my own node eventually.
 
 This is still an ongoing project and I'm really excited to jump back in to work on this over the next couple weeks.
+Ideally I'd love to host this using IPFS and use a .eth domain name - anyone know who registered feedVitalik.eth :)
+
 I'd love feedback positive or negative!
