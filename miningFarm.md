@@ -4,8 +4,8 @@ title: GPU Mining Farm
 comments: true
 ---
 
-Having tought myself to code at a young age and gone to school for Computer Science I was always more interested in the software side of computing opposed the hardware side.
-I wasn't a big gamer either so I never was incentivised to build my own computer or buy the latest graphics card.
+Having taught myself to code at a young age and gone to school for Computer Science I was always more interested in the software side of computing opposed to the hardware side.
+I wasn't a gamer either so I never was incentivised to build my own computer or buy the latest graphics card.
 That all changed in early 2017 when I discovered that graphics cards could be used for much more than playing games. 
 They could be used to mine different cryptocurrencies!
 
@@ -22,11 +22,11 @@ Here's a quick list of some of those obstacles.
 
 1. Why won't this CPU fit in my motherboard? (1150 vs 1151 socket types)
 2. How do I turn on this second power supply? My motherboard only has one 24pin connector? (Jump start power supply by shorting pins 4 & 5 with a paper clip)
-3. I didn't buy a power button how do I turn this thing on? (Short the PWR_SW and PWR_BTN headers on the board with a screwdriver)
+3. I didn't buy a power button! How do I turn this thing on? (Short the PWR_SW and PWR_BTN headers on the board with a screwdriver)
 4. Cards 4 and 5 aren't being recognized, why? (Power source for PCI-E risers must be same as GPU)
 5. These molex => sata connections are super hot and melting the outside cabling. Is my house going to burn down? (PCI-E to sata cables are best)
 6. How do I overclock/undervolt these cards to optimize for efficiency?
-7. How do I flash a custom BIOS to these GPUs so I can optomize even more?
+7. How do I flash a custom BIOS to these GPUs so I can optimize even more?
 8. WHY ARE THEY SO HOT!!
 
 This is just a short list of the many obstacles and questions I had to overcome in order to finally build myself a stable and optimized GPU mining rig. 
@@ -74,4 +74,6 @@ I wrote an AWS Lambda function to query the api endpoints every 5 minutes and po
 All together I'm super proud of what I've built over the last couple years.
 It's been an awesome hobby and side project to learn on!
 
-Questions? Ask me below. Beware I can talk about this stuff for hours and might bore you :)
+Questions? Ask me below. 
+
+Beware I can talk about this stuff for hours and might bore you :)

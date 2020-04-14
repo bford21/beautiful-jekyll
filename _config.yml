@@ -25,6 +25,7 @@ description: Personal Page
 navbar-links:
   About Me: "aboutme"
   Personal Projects:
+    - Feed Vitalik: "feedVitalik"
     - GPU Mining Farm: "miningFarm"
     - Boston Crime Data Visualization: "crimeData"
     - Jenkins Plugin: "publishToOnedrive"
