@@ -22,7 +22,7 @@ I was first introduced to programming when I was 13. I learned how to write Java
 
 ![Fincura Logo](img/fincura.png) **Fincura**
 
-**Software Engineer:** Architected and designed solutions using an Angular/Python stack.
+**Software Engineer:** Architected and designed solutions utilizing an Angular/Python stack.
 
 ![Citrix Logo](img/citrix.png) **Citrix**
 
