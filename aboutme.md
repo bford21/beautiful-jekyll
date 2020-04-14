@@ -8,7 +8,7 @@ Hello, my name is Brian Ford and I am passionate about technology. I love explor
 
 I was first introduced to programming when I was 13. I learned how to write Java code in order to automate myself playing an online game. Empowered with this new realization that you can make your computer work for **YOU** by writing code. I've since set out on a journey of exploration and innovation.
  
-<!-- When I'm not programming I like to get outside and explore the great city of Boston. I grew up just outside the city and am a huge Patriots, Red Sox and Celtics fan. I also enjoy snowboarding, running and biking.-->
+When I'm not programming I like to get outside and explore the great city of Boston. I grew up just outside the city and am a huge Patriots, Red Sox and Celtics fan. I also enjoy snowboarding, running and biking.
 
 
 >"Intelligence is the ability to avoid doing work, yet getting the work done"
@@ -50,7 +50,7 @@ I was first introduced to programming when I was 13. I learned how to write Java
 
 <br />
 ## Skills
-<i class="fa fa-code" /> **Programming languages:** Javascript, Python, Java, C++, C#, Ruby, Powershell, GO
+<i class="fa fa-code" /> **Programming languages:** Javascript, Python, Java, C++, C#, Ruby, Powershell
 
 <i class="fa fa-cubes" /> **Platforms:** Windows, Linux, MacOS
 
