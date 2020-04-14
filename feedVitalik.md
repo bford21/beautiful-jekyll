@@ -4,13 +4,13 @@ title: Feed Vitalik
 comments: true
 ---
 
-After having fallen down the crypto rabbit hole one of my favorite things about decentralized public blockchains was the treasure trove of data freely avaialable ready for anyone to look at or use. 
+After having fallen down the crypto rabbit hole one of my favorite things about decentralized public blockchains was the treasure trove of data freely available ready for anyone to look at or use. 
 I found myself drawn to individuals in the ecosystem like Nic Carter or Eric Wall that also shared this excitement for the data.
 
 A common tool used to explore some of this data is a blockchain transaction visualizer.
 I began looking at many transaction visualizers out there and while it was neat to see objects fly by the screen or drop from the sky.
 Most of the visualizers out there are static.
-There is little to no interation on behalf of the user viewing the page.
+There is little to no interaction on behalf of the user viewing the page.
 Armed with this realization an idea was sprung.
 
 Naturally, the first thing I did when this idea struck me was buy a domain name. feedvitalik.com (not live yet!)
@@ -23,7 +23,7 @@ Then, I got to work.
 
 The result was a gamified Ethereum transaction visualizer where the goal is to get the highest score possible.
 The Eth falling from the sky are near real time on-chain transactions.
-The size of the Eth symbol is correlated to how much Eth is being transfered and the speed at which it falls is determined by how much gas was paid.
+The size of the Eth symbol is correlated to how much Eth is being transferred and the speed at which it falls is determined by how much gas was paid.
 
 One of the larger decisions I had to make when starting this project was my data source.
 Where was I going to pull these transactions from?
