@@ -27,9 +27,8 @@ The size of the Eth symbol is correlated to how much Eth is being transferred an
 
 One of the larger decisions I had to make when starting this project was my data source.
 Where was I going to pull these transactions from?
-I could run my own node and use the native JSON-RPC interface.
-I could use a node hosting service like DAppNode.
-Or I could tie into one of many API's available from providers like Infura.
+I could run my own node and use the native JSON-RPC interface, buy a plug and play node from someone like DAppNode.
+Use the web3.js library or I could tie into one of the many API's available from providers like Infura.
 
 Ultimately I chose to use Infura's API just to get things working.
 However, I'd love to use web3.js or host my own node eventually.
